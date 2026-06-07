@@ -1,0 +1,22 @@
+HOW TO GET THE DATASET
+======================
+
+This project uses the free "Telco Customer Churn" dataset from Kaggle.
+
+Expected file (place it in THIS data/ folder):
+    WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+Option 1 - Download from the website (easiest)
+  1. Go to: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+  2. Click "Download" (you need a free Kaggle account).
+  3. Unzip it and copy WA_Fn-UseC_-Telco-Customer-Churn.csv into this data/ folder.
+
+Option 2 - Kaggle command line
+  1. pip install kaggle
+  2. Put your API key at: C:\Users\<your-username>\.kaggle\kaggle.json
+     (get it from kaggle.com -> Settings -> Create New API Token)
+  3. From the project root, run:
+        kaggle datasets download -d blastchar/telco-customer-churn
+        Expand-Archive .\telco-customer-churn.zip -DestinationPath .\data
+
+About the data: ~7,043 customers, 21 columns. The target column is "Churn" (Yes / No).

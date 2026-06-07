@@ -1,0 +1,9 @@
+# Work / non-portfolio folders — do NOT publish to GitHub
+Tamura-SQC/
+Projects/
+
+# Common junk
+venv/
+__pycache__/
+*.pyc
+.DS_Store
