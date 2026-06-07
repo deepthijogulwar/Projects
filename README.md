@@ -11,6 +11,7 @@ End-to-end data & analytics projects — from business analysis and dashboards t
 | **[RAG over Email](rag-over-email)** | Ask plain-English questions over an inbox and get answers **grounded in the source emails with citations** (100% retrieval hit@4 on the eval set). | Python · scikit-learn · NLP |
 | **[SQL + Power BI Sales Analysis](sql-powerbi-sales-analysis)** | A relational SQLite database queried with **SQL** (JOINs, GROUP BY) feeding a **Power BI** dashboard. | SQL · SQLite · Power BI · DAX |
 | **[Power BI Coffee Sales Dashboard](powerbi-coffee-sales-dashboard)** | An interactive Power BI sales dashboard with KPIs, trends, and slicers (build kit + dataset). | Power BI · DAX |
+| **[Multi-Provider GenAI Chat App](genai-chat-app)** | A streaming CLI chatbot that runs across Azure OpenAI, GitHub Models, and OpenAI from one codebase (unit-tested). | Python · OpenAI SDK · Azure |
 
 ## Skills
 Python · SQL · pandas · NumPy · Matplotlib · Seaborn · scikit-learn · Power BI · DAX · data visualization · exploratory data analysis · statistics · forecasting · RAG / NLP

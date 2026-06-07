@@ -1,0 +1,8 @@
+openai>=1.0
+python-dotenv
+
+# Optional: keyless Microsoft Entra ID auth for Azure (see client.py)
+# azure-identity
+
+# Optional: run the tests
+# pytest
