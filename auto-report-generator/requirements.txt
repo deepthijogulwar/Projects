@@ -1,0 +1,7 @@
+# Core — needed to generate the report
+pandas
+numpy
+matplotlib
+
+# Optional:
+#   AI-written summary  ->  pip install openai   (set OPENAI_API_KEY or GITHUB_TOKEN)

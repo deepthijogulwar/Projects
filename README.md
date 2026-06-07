@@ -1,6 +1,6 @@
 # 📊 Deepthi's Data Analyst Portfolio
 
-End-to-end data & analytics projects — from business analysis and dashboards to SQL and a Retrieval-Augmented Generation (GenAI) app. Each folder is a self-contained project with its own README, code, and results.
+End-to-end data & analytics projects — from business analysis and dashboards to SQL, automated reporting, and a Retrieval-Augmented Generation (GenAI) app. Each folder is a self-contained project with its own README, code, and results.
 
 ## Projects
 
@@ -12,9 +12,10 @@ End-to-end data & analytics projects — from business analysis and dashboards t
 | **[SQL + Power BI Sales Analysis](sql-powerbi-sales-analysis)** | A relational SQLite database queried with **SQL** (JOINs, GROUP BY) feeding a **Power BI** dashboard. | SQL · SQLite · Power BI · DAX |
 | **[Power BI Coffee Sales Dashboard](powerbi-coffee-sales-dashboard)** | An interactive Power BI sales dashboard with KPIs, trends, and slicers (build kit + dataset). | Power BI · DAX |
 | **[Multi-Provider GenAI Chat App](genai-chat-app)** | A streaming CLI chatbot that runs across Azure OpenAI, GitHub Models, and OpenAI from one codebase (unit-tested). | Python · OpenAI SDK · Azure |
+| **[Auto-Analyst Report Generator](auto-report-generator)** | One command turns a sales CSV into a full Markdown report — KPIs, trend & category charts, loss-maker + anomaly detection, and a plain-English executive summary; ships with a weekly Windows scheduler. | Python · pandas · matplotlib · automation |
 
 ## Skills
-Python · SQL · pandas · NumPy · Matplotlib · Seaborn · scikit-learn · Power BI · DAX · data visualization · exploratory data analysis · statistics · forecasting · RAG / NLP
+Python · SQL · pandas · NumPy · Matplotlib · Seaborn · scikit-learn · Power BI · DAX · data visualization · exploratory data analysis · statistics · forecasting · automation / scheduling · RAG / NLP
 
 ---
 *Built during a focused data-analytics learning sprint.*
