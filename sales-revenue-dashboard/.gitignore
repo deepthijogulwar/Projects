@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets — put API keys in a .env file (never committed)
+.env
+.env.local
+
+# Datasets are downloaded/generated on first run - kept out of git to keep the
+# repo light. The real Superstore CSV is auto-fetched by src/superstore_loader.py;
+# the synthetic data is rebuilt by main_synthetic.py.
+data/superstore.csv
+data/raw_sales.csv
+data/clean_sales.csv
+
+# The synthetic stress-test charts (the REAL-data charts in /outputs ARE committed
+# so reviewers see results without running anything).
+outputs_synthetic/

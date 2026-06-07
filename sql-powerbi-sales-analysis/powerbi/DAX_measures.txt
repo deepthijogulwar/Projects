@@ -1,0 +1,33 @@
+Power BI — DAX measures for the Sales Analysis dashboard
+Table name = powerbi_sales  (loaded from data/powerbi_sales.csv)
+Create each via:  Home -> New measure  ->  paste  ->  press Enter
+
+==================== CORE MEASURES ====================
+
+Total Revenue = SUM(powerbi_sales[revenue])
+
+Total Orders = COUNTROWS(powerbi_sales)
+
+Total Quantity = SUM(powerbi_sales[quantity])
+
+Avg Order Value = DIVIDE([Total Revenue], [Total Orders])
+
+Distinct Customers = DISTINCTCOUNT(powerbi_sales[customer_name])
+
+
+==================== OPTIONAL (a little more advanced) ====================
+
+% of Total Revenue =
+DIVIDE(
+    [Total Revenue],
+    CALCULATE([Total Revenue], ALL(powerbi_sales))
+)
+
+Technology Revenue =
+CALCULATE([Total Revenue], powerbi_sales[category] = "Technology")
+
+Top Segment Revenue =
+MAXX(
+    VALUES(powerbi_sales[segment]),
+    [Total Revenue]
+)

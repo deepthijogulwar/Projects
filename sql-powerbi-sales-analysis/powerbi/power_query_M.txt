@@ -1,0 +1,30 @@
+Power BI — Power Query (M) code to load and type the data.
+
+In Power BI Desktop:
+  Home -> Transform data  (opens Power Query)
+  -> Home -> Advanced Editor  -> paste the code below -> Done -> Close & Apply
+
+NOTE: update the path on the File.Contents line to where the CSV is on your PC.
+(Easiest alternative: just use Home -> Get data -> Text/CSV and pick the file —
+Power BI writes this same M code for you behind the scenes.)
+
+let
+    Source = Csv.Document(
+        File.Contents("C:\Users\shruthi.jogini\Documents\Deepthi-GenAI-Career-100Days\sql-powerbi-sales-analysis\data\powerbi_sales.csv"),
+        [Delimiter = ",", Columns = 10, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]
+    ),
+    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+    Typed = Table.TransformColumnTypes(Promoted, {
+        {"order_id", Int64.Type},
+        {"order_date", type date},
+        {"customer_name", type text},
+        {"city", type text},
+        {"segment", type text},
+        {"product_name", type text},
+        {"category", type text},
+        {"unit_price", Int64.Type},
+        {"quantity", Int64.Type},
+        {"revenue", Int64.Type}
+    })
+in
+    Typed

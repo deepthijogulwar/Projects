@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Secrets — put API keys in a .env file (never committed)
+.env
+.env.local
+
+# Power BI temp files (keep the .pbix itself once you build it)
+*.pbix.tmp
+*.~tmp

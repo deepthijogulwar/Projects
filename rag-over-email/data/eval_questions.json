@@ -1,0 +1,10 @@
+[
+  {"question": "What is the approved Q3 marketing budget?", "expected_ids": ["e003"], "keywords": ["280,000"]},
+  {"question": "When is Project Aurora launching?", "expected_ids": ["e004", "e006"], "keywords": ["July 15"]},
+  {"question": "Who is the lead for Project Aurora?", "expected_ids": ["e004"], "keywords": ["Priya"]},
+  {"question": "When is the office moving and to which building?", "expected_ids": ["e007"], "keywords": ["May 1", "River Street"]},
+  {"question": "What is the deadline to reset our passwords?", "expected_ids": ["e009"], "keywords": ["March 20"]},
+  {"question": "How many PTO days do we get per year?", "expected_ids": ["e011"], "keywords": ["22"]},
+  {"question": "When is the company all-hands meeting?", "expected_ids": ["e015"], "keywords": ["April 10"]},
+  {"question": "How much of the budget is earmarked for the Aurora launch?", "expected_ids": ["e003", "e006"], "keywords": ["50,000"]}
+]

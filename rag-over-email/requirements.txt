@@ -1,0 +1,8 @@
+# Core — needed to run the demo, the CLI, and the evaluation
+scikit-learn
+numpy
+
+# Optional extras (install only if you want them):
+#   semantic retrieval :  pip install sentence-transformers   ->  --backend embeddings
+#   real LLM answers   :  pip install openai                  ->  set OPENAI_API_KEY or GITHUB_TOKEN
+#   web UI             :  pip install streamlit               ->  streamlit run app.py

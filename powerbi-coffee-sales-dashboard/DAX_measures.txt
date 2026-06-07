@@ -1,0 +1,27 @@
+Power BI — DAX measures for the Coffee Shop Sales Dashboard
+(Create each via Home -> New measure, then paste and press Enter.)
+
+Total Sales = SUM(coffee_shop_sales[Sales])
+
+Total Transactions = COUNTROWS(coffee_shop_sales)
+
+Total Quantity = SUM(coffee_shop_sales[Quantity])
+
+Avg Transaction Value = DIVIDE([Total Sales], [Total Transactions])
+
+
+--- Optional bonus measures (a little more advanced) ---
+
+# Share of total sales (works inside the Category/City charts)
+Sales % of Total =
+DIVIDE(
+    [Total Sales],
+    CALCULATE([Total Sales], ALL(coffee_shop_sales))
+)
+
+# Sales for the most recent month in the data
+Latest Month Sales =
+CALCULATE(
+    [Total Sales],
+    coffee_shop_sales[Date] >= EOMONTH(MAX(coffee_shop_sales[Date]), -1) + 1
+)

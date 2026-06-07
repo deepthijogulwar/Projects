@@ -1,0 +1,2001 @@
+Date,City,Category,Product,Quantity,UnitPrice,Sales,PaymentMethod
+2025-12-11,Hyderabad,Snacks,Samosa,3,40,120,UPI
+2025-01-21,Mumbai,Cold Drinks,Cola,1,90,90,Card
+2025-02-17,Hyderabad,Tea,Lemon Tea,1,90,90,UPI
+2025-09-20,Mumbai,Tea,Green Tea,2,100,200,Card
+2025-07-05,Pune,Cold Drinks,Cola,2,90,180,Cash
+2025-06-20,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-06-12,Bengaluru,Tea,Lemon Tea,2,90,180,Cash
+2025-10-28,Hyderabad,Tea,Masala Chai,2,80,160,UPI
+2025-12-29,Bengaluru,Coffee,Cold Brew,3,220,660,UPI
+2025-09-21,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-07-14,Mumbai,Snacks,Sandwich,2,180,360,Card
+2025-09-16,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-09-23,Delhi,Cold Drinks,Cola,2,90,180,Card
+2025-02-09,Bengaluru,Coffee,Latte,1,200,200,UPI
+2025-05-20,Pune,Coffee,Latte,3,200,600,Card
+2025-06-10,Hyderabad,Bakery,Muffin,3,120,360,UPI
+2025-07-24,Delhi,Coffee,Espresso,2,120,240,UPI
+2025-05-29,Pune,Coffee,Espresso,3,120,360,UPI
+2025-07-01,Pune,Bakery,Muffin,1,120,120,Card
+2025-06-26,Pune,Snacks,Fries,2,120,240,UPI
+2025-07-25,Bengaluru,Snacks,Sandwich,2,180,360,UPI
+2025-05-18,Pune,Bakery,Muffin,2,120,240,UPI
+2025-12-25,Delhi,Coffee,Latte,1,200,200,Cash
+2025-07-27,Delhi,Tea,Green Tea,1,100,100,Card
+2025-01-21,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-06-01,Pune,Bakery,Cookie,2,60,120,UPI
+2025-06-08,Pune,Coffee,Espresso,2,120,240,Card
+2025-11-12,Mumbai,Tea,Green Tea,3,100,300,Cash
+2025-12-31,Bengaluru,Snacks,Sandwich,1,180,180,Card
+2025-09-29,Pune,Coffee,Cold Brew,2,220,440,Card
+2025-12-21,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-02-01,Hyderabad,Coffee,Espresso,1,120,120,UPI
+2025-02-08,Bengaluru,Coffee,Cappuccino,3,180,540,Card
+2025-12-27,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-03-15,Pune,Tea,Lemon Tea,2,90,180,Cash
+2025-10-08,Hyderabad,Bakery,Cookie,2,60,120,Cash
+2025-05-17,Delhi,Snacks,Sandwich,1,180,180,UPI
+2025-03-01,Delhi,Snacks,Fries,1,120,120,Card
+2025-09-06,Hyderabad,Bakery,Croissant,2,150,300,Cash
+2025-04-19,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-06-21,Mumbai,Snacks,Fries,3,120,360,UPI
+2025-09-30,Hyderabad,Tea,Masala Chai,2,80,160,Card
+2025-05-18,Mumbai,Snacks,Fries,2,120,240,Card
+2025-05-31,Hyderabad,Coffee,Latte,1,200,200,UPI
+2025-01-02,Hyderabad,Cold Drinks,Cola,3,90,270,UPI
+2025-12-02,Pune,Cold Drinks,Cola,3,90,270,UPI
+2025-10-25,Pune,Coffee,Espresso,1,120,120,UPI
+2025-04-05,Mumbai,Coffee,Cold Brew,1,220,220,Card
+2025-03-31,Bengaluru,Bakery,Croissant,1,150,150,Card
+2025-02-02,Bengaluru,Coffee,Latte,3,200,600,UPI
+2025-08-23,Pune,Bakery,Croissant,2,150,300,UPI
+2025-10-05,Delhi,Coffee,Espresso,3,120,360,Cash
+2025-11-25,Pune,Coffee,Latte,2,200,400,UPI
+2025-02-25,Bengaluru,Bakery,Croissant,3,150,450,UPI
+2025-08-30,Pune,Cold Drinks,Iced Tea,1,140,140,Card
+2025-10-02,Pune,Coffee,Latte,2,200,400,Card
+2025-04-07,Hyderabad,Coffee,Cappuccino,2,180,360,Card
+2025-11-30,Pune,Cold Drinks,Smoothie,1,250,250,Card
+2025-04-25,Pune,Snacks,Sandwich,1,180,180,UPI
+2025-06-29,Hyderabad,Coffee,Espresso,2,120,240,Cash
+2025-11-23,Mumbai,Coffee,Cold Brew,2,220,440,Card
+2025-08-06,Bengaluru,Coffee,Cold Brew,1,220,220,Card
+2025-09-06,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-04-19,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-08-06,Bengaluru,Cold Drinks,Cola,2,90,180,UPI
+2025-03-02,Bengaluru,Cold Drinks,Cola,1,90,90,UPI
+2025-11-05,Bengaluru,Coffee,Latte,3,200,600,UPI
+2025-11-04,Mumbai,Cold Drinks,Smoothie,2,250,500,UPI
+2025-01-08,Delhi,Snacks,Fries,2,120,240,Card
+2025-06-15,Bengaluru,Bakery,Croissant,3,150,450,Card
+2025-11-07,Hyderabad,Coffee,Latte,1,200,200,UPI
+2025-12-11,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-03-19,Hyderabad,Snacks,Samosa,1,40,40,UPI
+2025-01-21,Hyderabad,Bakery,Croissant,3,150,450,Cash
+2025-08-21,Pune,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-04-24,Hyderabad,Coffee,Cold Brew,3,220,660,Card
+2025-04-28,Hyderabad,Tea,Masala Chai,2,80,160,UPI
+2025-06-23,Bengaluru,Cold Drinks,Smoothie,2,250,500,UPI
+2025-12-20,Delhi,Bakery,Cookie,2,60,120,Card
+2025-04-03,Pune,Coffee,Cold Brew,1,220,220,Card
+2025-12-04,Pune,Coffee,Cappuccino,3,180,540,Card
+2025-05-17,Pune,Coffee,Cappuccino,1,180,180,Cash
+2025-02-09,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-12-05,Hyderabad,Coffee,Cappuccino,3,180,540,UPI
+2025-11-05,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-02-10,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-09-24,Bengaluru,Snacks,Sandwich,3,180,540,Cash
+2025-08-29,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-06-05,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-07-27,Pune,Tea,Lemon Tea,1,90,90,Card
+2025-11-08,Mumbai,Tea,Lemon Tea,1,90,90,UPI
+2025-09-15,Hyderabad,Tea,Lemon Tea,2,90,180,Card
+2025-03-08,Pune,Coffee,Cappuccino,1,180,180,UPI
+2025-07-18,Pune,Snacks,Sandwich,1,180,180,Cash
+2025-10-29,Mumbai,Tea,Green Tea,2,100,200,Cash
+2025-10-17,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-07-07,Mumbai,Tea,Lemon Tea,3,90,270,Card
+2025-10-16,Pune,Cold Drinks,Cola,3,90,270,Card
+2025-09-13,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-01-30,Hyderabad,Coffee,Cappuccino,3,180,540,Card
+2025-12-21,Mumbai,Snacks,Samosa,1,40,40,UPI
+2025-04-12,Bengaluru,Snacks,Samosa,2,40,80,Card
+2025-02-06,Mumbai,Cold Drinks,Smoothie,3,250,750,Card
+2025-10-27,Pune,Tea,Masala Chai,2,80,160,Card
+2025-03-28,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-01-16,Delhi,Cold Drinks,Iced Tea,1,140,140,Card
+2025-10-19,Bengaluru,Snacks,Fries,2,120,240,UPI
+2025-01-21,Hyderabad,Tea,Lemon Tea,3,90,270,UPI
+2025-12-14,Delhi,Tea,Masala Chai,3,80,240,UPI
+2025-11-30,Delhi,Bakery,Croissant,2,150,300,UPI
+2025-10-16,Delhi,Coffee,Espresso,1,120,120,Cash
+2025-07-07,Bengaluru,Tea,Lemon Tea,3,90,270,Card
+2025-02-09,Delhi,Cold Drinks,Iced Tea,2,140,280,Card
+2025-01-14,Pune,Bakery,Muffin,2,120,240,UPI
+2025-02-06,Delhi,Coffee,Espresso,3,120,360,UPI
+2025-06-04,Delhi,Cold Drinks,Cola,2,90,180,UPI
+2025-02-27,Pune,Coffee,Cappuccino,3,180,540,Card
+2025-12-18,Delhi,Bakery,Cookie,1,60,60,UPI
+2025-11-10,Pune,Tea,Green Tea,2,100,200,Card
+2025-10-04,Hyderabad,Bakery,Muffin,2,120,240,UPI
+2025-05-06,Mumbai,Coffee,Espresso,2,120,240,Cash
+2025-07-06,Mumbai,Tea,Lemon Tea,2,90,180,Card
+2025-10-10,Pune,Snacks,Fries,2,120,240,UPI
+2025-04-26,Pune,Tea,Lemon Tea,3,90,270,UPI
+2025-03-23,Pune,Coffee,Latte,2,200,400,UPI
+2025-12-29,Delhi,Cold Drinks,Smoothie,3,250,750,UPI
+2025-10-23,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-04-21,Mumbai,Coffee,Latte,3,200,600,Card
+2025-07-06,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-03-31,Bengaluru,Bakery,Muffin,1,120,120,Card
+2025-05-20,Mumbai,Bakery,Cookie,1,60,60,UPI
+2025-03-11,Delhi,Bakery,Croissant,1,150,150,Cash
+2025-05-07,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-08-22,Delhi,Cold Drinks,Smoothie,3,250,750,UPI
+2025-02-28,Bengaluru,Coffee,Cold Brew,3,220,660,UPI
+2025-10-08,Pune,Bakery,Muffin,2,120,240,Card
+2025-05-25,Hyderabad,Coffee,Espresso,1,120,120,UPI
+2025-01-27,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-07-01,Bengaluru,Coffee,Cappuccino,1,180,180,UPI
+2025-11-13,Pune,Coffee,Espresso,1,120,120,UPI
+2025-12-16,Delhi,Coffee,Espresso,2,120,240,UPI
+2025-01-09,Mumbai,Cold Drinks,Smoothie,1,250,250,Card
+2025-02-23,Delhi,Tea,Green Tea,3,100,300,UPI
+2025-08-11,Pune,Snacks,Samosa,3,40,120,UPI
+2025-01-10,Hyderabad,Bakery,Muffin,3,120,360,UPI
+2025-02-07,Pune,Snacks,Sandwich,1,180,180,UPI
+2025-05-01,Bengaluru,Cold Drinks,Cola,3,90,270,Cash
+2025-05-18,Hyderabad,Bakery,Cookie,3,60,180,Card
+2025-03-14,Pune,Bakery,Cookie,2,60,120,UPI
+2025-04-07,Bengaluru,Bakery,Croissant,3,150,450,UPI
+2025-09-22,Pune,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-06-02,Bengaluru,Coffee,Cappuccino,1,180,180,UPI
+2025-07-22,Pune,Coffee,Cappuccino,3,180,540,Card
+2025-05-19,Pune,Tea,Green Tea,1,100,100,Card
+2025-12-11,Mumbai,Coffee,Espresso,3,120,360,Card
+2025-10-17,Mumbai,Coffee,Cold Brew,3,220,660,UPI
+2025-09-19,Hyderabad,Coffee,Cappuccino,3,180,540,UPI
+2025-11-30,Delhi,Coffee,Latte,2,200,400,Card
+2025-07-03,Bengaluru,Coffee,Latte,3,200,600,Card
+2025-11-29,Mumbai,Bakery,Muffin,2,120,240,Cash
+2025-12-03,Mumbai,Cold Drinks,Cola,2,90,180,Card
+2025-03-04,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-02-14,Bengaluru,Snacks,Samosa,3,40,120,UPI
+2025-11-27,Hyderabad,Coffee,Cold Brew,2,220,440,Cash
+2025-06-02,Delhi,Coffee,Latte,1,200,200,UPI
+2025-11-01,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-10-18,Delhi,Coffee,Cappuccino,3,180,540,Cash
+2025-08-15,Mumbai,Tea,Green Tea,2,100,200,UPI
+2025-05-24,Bengaluru,Snacks,Fries,2,120,240,Card
+2025-05-08,Bengaluru,Bakery,Muffin,3,120,360,Cash
+2025-01-05,Bengaluru,Tea,Masala Chai,2,80,160,Card
+2025-10-04,Bengaluru,Coffee,Cappuccino,3,180,540,UPI
+2025-12-24,Delhi,Snacks,Fries,1,120,120,UPI
+2025-10-01,Mumbai,Coffee,Espresso,1,120,120,Card
+2025-03-27,Pune,Tea,Green Tea,2,100,200,UPI
+2025-08-12,Delhi,Cold Drinks,Cola,2,90,180,Card
+2025-12-20,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-03-08,Bengaluru,Bakery,Cookie,3,60,180,UPI
+2025-10-29,Delhi,Bakery,Croissant,2,150,300,UPI
+2025-10-08,Mumbai,Tea,Green Tea,3,100,300,Card
+2025-02-23,Bengaluru,Cold Drinks,Cola,3,90,270,UPI
+2025-05-21,Mumbai,Coffee,Latte,3,200,600,Cash
+2025-09-14,Bengaluru,Coffee,Latte,1,200,200,UPI
+2025-07-01,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-12-23,Delhi,Bakery,Muffin,2,120,240,UPI
+2025-11-18,Mumbai,Snacks,Fries,3,120,360,UPI
+2025-06-10,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-06-26,Pune,Coffee,Cappuccino,2,180,360,Card
+2025-03-31,Delhi,Coffee,Cappuccino,1,180,180,UPI
+2025-12-21,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-03-24,Mumbai,Bakery,Cookie,1,60,60,UPI
+2025-04-05,Mumbai,Cold Drinks,Cola,1,90,90,UPI
+2025-06-06,Hyderabad,Tea,Masala Chai,3,80,240,Cash
+2025-05-23,Mumbai,Bakery,Muffin,1,120,120,UPI
+2025-12-21,Delhi,Bakery,Cookie,3,60,180,UPI
+2025-06-02,Hyderabad,Tea,Lemon Tea,1,90,90,Cash
+2025-03-13,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-09-16,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-05-23,Pune,Bakery,Cookie,1,60,60,Card
+2025-12-04,Delhi,Tea,Green Tea,3,100,300,Card
+2025-08-14,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-08-31,Hyderabad,Snacks,Sandwich,3,180,540,UPI
+2025-03-20,Delhi,Snacks,Samosa,3,40,120,UPI
+2025-05-27,Pune,Tea,Lemon Tea,2,90,180,Card
+2025-02-01,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-09-26,Bengaluru,Coffee,Cold Brew,3,220,660,Card
+2025-06-21,Hyderabad,Cold Drinks,Smoothie,1,250,250,UPI
+2025-07-03,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-07-02,Mumbai,Bakery,Cookie,1,60,60,UPI
+2025-12-29,Hyderabad,Cold Drinks,Iced Tea,1,140,140,Card
+2025-08-29,Bengaluru,Tea,Lemon Tea,2,90,180,UPI
+2025-08-31,Mumbai,Bakery,Cookie,2,60,120,UPI
+2025-03-25,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-09-22,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-06-14,Hyderabad,Snacks,Samosa,3,40,120,UPI
+2025-10-20,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-08-03,Mumbai,Coffee,Cappuccino,1,180,180,Card
+2025-02-24,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-07-05,Bengaluru,Snacks,Fries,2,120,240,UPI
+2025-08-03,Hyderabad,Coffee,Latte,1,200,200,Cash
+2025-08-27,Pune,Bakery,Cookie,1,60,60,UPI
+2025-06-03,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-09-05,Hyderabad,Coffee,Cappuccino,1,180,180,Cash
+2025-06-06,Mumbai,Coffee,Espresso,1,120,120,Card
+2025-07-09,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-12-26,Mumbai,Bakery,Cookie,3,60,180,Card
+2025-12-01,Hyderabad,Tea,Masala Chai,1,80,80,Cash
+2025-04-22,Bengaluru,Coffee,Cappuccino,3,180,540,Card
+2025-12-16,Hyderabad,Tea,Green Tea,1,100,100,UPI
+2025-03-24,Pune,Snacks,Fries,1,120,120,Cash
+2025-12-25,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-09-20,Delhi,Coffee,Espresso,3,120,360,UPI
+2025-08-08,Pune,Snacks,Fries,1,120,120,UPI
+2025-11-13,Pune,Tea,Masala Chai,1,80,80,UPI
+2025-05-26,Pune,Tea,Lemon Tea,1,90,90,UPI
+2025-02-11,Delhi,Tea,Lemon Tea,3,90,270,Cash
+2025-03-30,Bengaluru,Coffee,Cappuccino,2,180,360,Card
+2025-11-22,Hyderabad,Bakery,Cookie,2,60,120,UPI
+2025-05-31,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-04-24,Delhi,Snacks,Samosa,2,40,80,UPI
+2025-05-24,Delhi,Bakery,Croissant,1,150,150,UPI
+2025-09-23,Bengaluru,Tea,Lemon Tea,2,90,180,UPI
+2025-12-31,Mumbai,Bakery,Cookie,1,60,60,Cash
+2025-03-31,Pune,Tea,Lemon Tea,2,90,180,Cash
+2025-09-28,Mumbai,Cold Drinks,Smoothie,1,250,250,Card
+2025-08-20,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-04-09,Pune,Tea,Green Tea,2,100,200,UPI
+2025-10-31,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-07-31,Hyderabad,Snacks,Samosa,3,40,120,Cash
+2025-08-24,Pune,Coffee,Espresso,3,120,360,UPI
+2025-08-19,Pune,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-08-10,Mumbai,Tea,Lemon Tea,1,90,90,UPI
+2025-05-06,Bengaluru,Cold Drinks,Cola,3,90,270,UPI
+2025-12-04,Bengaluru,Coffee,Latte,1,200,200,UPI
+2025-11-11,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-12-18,Hyderabad,Coffee,Cold Brew,2,220,440,UPI
+2025-09-13,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-08-15,Pune,Coffee,Cold Brew,2,220,440,Cash
+2025-08-11,Hyderabad,Coffee,Cold Brew,1,220,220,Cash
+2025-04-12,Bengaluru,Coffee,Cappuccino,3,180,540,UPI
+2025-09-05,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-07-21,Delhi,Coffee,Latte,1,200,200,Card
+2025-07-12,Pune,Tea,Green Tea,1,100,100,UPI
+2025-01-29,Hyderabad,Tea,Lemon Tea,3,90,270,UPI
+2025-10-24,Delhi,Coffee,Latte,2,200,400,Card
+2025-07-15,Hyderabad,Coffee,Cold Brew,3,220,660,Card
+2025-10-09,Delhi,Tea,Lemon Tea,3,90,270,UPI
+2025-10-30,Hyderabad,Bakery,Cookie,2,60,120,Cash
+2025-08-25,Delhi,Tea,Lemon Tea,1,90,90,Cash
+2025-11-05,Mumbai,Bakery,Cookie,2,60,120,Cash
+2025-11-30,Pune,Coffee,Espresso,3,120,360,Card
+2025-06-02,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-10-08,Bengaluru,Coffee,Latte,1,200,200,Card
+2025-03-06,Pune,Snacks,Fries,1,120,120,Card
+2025-06-08,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-06-09,Pune,Bakery,Croissant,1,150,150,Card
+2025-10-21,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-05-11,Hyderabad,Tea,Masala Chai,1,80,80,UPI
+2025-01-08,Mumbai,Tea,Lemon Tea,3,90,270,Cash
+2025-08-07,Bengaluru,Bakery,Croissant,3,150,450,UPI
+2025-01-15,Hyderabad,Coffee,Cappuccino,3,180,540,Card
+2025-07-18,Pune,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-02-04,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-08-26,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-06-26,Bengaluru,Coffee,Cold Brew,3,220,660,UPI
+2025-05-24,Delhi,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-09-28,Bengaluru,Tea,Green Tea,3,100,300,Card
+2025-07-18,Bengaluru,Tea,Green Tea,2,100,200,Card
+2025-05-23,Delhi,Snacks,Samosa,2,40,80,UPI
+2025-04-15,Hyderabad,Snacks,Sandwich,3,180,540,UPI
+2025-09-09,Pune,Tea,Masala Chai,3,80,240,UPI
+2025-01-24,Bengaluru,Cold Drinks,Cola,1,90,90,Card
+2025-02-06,Hyderabad,Tea,Lemon Tea,1,90,90,Card
+2025-04-21,Bengaluru,Snacks,Fries,3,120,360,UPI
+2025-02-26,Bengaluru,Snacks,Fries,2,120,240,UPI
+2025-06-28,Delhi,Coffee,Cold Brew,2,220,440,Card
+2025-08-09,Pune,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-10-17,Delhi,Snacks,Fries,1,120,120,UPI
+2025-05-17,Pune,Coffee,Cold Brew,1,220,220,Card
+2025-07-06,Mumbai,Snacks,Sandwich,1,180,180,UPI
+2025-09-26,Bengaluru,Bakery,Croissant,1,150,150,Cash
+2025-06-30,Pune,Snacks,Sandwich,1,180,180,UPI
+2025-04-07,Mumbai,Snacks,Samosa,3,40,120,UPI
+2025-05-26,Hyderabad,Snacks,Samosa,3,40,120,Card
+2025-08-15,Pune,Cold Drinks,Cola,2,90,180,UPI
+2025-05-15,Hyderabad,Coffee,Latte,2,200,400,Cash
+2025-03-15,Delhi,Tea,Lemon Tea,3,90,270,UPI
+2025-05-18,Pune,Snacks,Sandwich,2,180,360,UPI
+2025-10-03,Bengaluru,Snacks,Sandwich,1,180,180,UPI
+2025-10-05,Pune,Bakery,Muffin,3,120,360,Card
+2025-01-17,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-03-03,Delhi,Bakery,Cookie,2,60,120,Card
+2025-09-10,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-12-27,Delhi,Coffee,Cold Brew,3,220,660,UPI
+2025-07-12,Delhi,Tea,Lemon Tea,3,90,270,Cash
+2025-06-09,Hyderabad,Coffee,Cold Brew,1,220,220,Card
+2025-10-03,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-05-31,Delhi,Tea,Green Tea,2,100,200,Cash
+2025-06-28,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-08-07,Delhi,Coffee,Espresso,2,120,240,UPI
+2025-04-24,Mumbai,Coffee,Cappuccino,2,180,360,UPI
+2025-10-06,Pune,Cold Drinks,Iced Tea,2,140,280,Card
+2025-03-04,Pune,Coffee,Espresso,2,120,240,UPI
+2025-09-18,Hyderabad,Snacks,Fries,1,120,120,Cash
+2025-10-22,Hyderabad,Cold Drinks,Iced Tea,2,140,280,Cash
+2025-09-06,Mumbai,Bakery,Croissant,1,150,150,UPI
+2025-04-12,Hyderabad,Coffee,Latte,1,200,200,Card
+2025-02-03,Pune,Bakery,Croissant,1,150,150,Card
+2025-08-04,Bengaluru,Bakery,Cookie,2,60,120,Card
+2025-03-23,Delhi,Coffee,Cold Brew,3,220,660,UPI
+2025-02-11,Hyderabad,Coffee,Espresso,1,120,120,UPI
+2025-09-22,Hyderabad,Snacks,Samosa,3,40,120,UPI
+2025-01-22,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-05-22,Mumbai,Tea,Masala Chai,2,80,160,Card
+2025-01-04,Hyderabad,Bakery,Cookie,2,60,120,Card
+2025-05-01,Mumbai,Bakery,Croissant,2,150,300,Card
+2025-08-17,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-04-08,Bengaluru,Bakery,Cookie,3,60,180,UPI
+2025-01-01,Bengaluru,Bakery,Muffin,1,120,120,Cash
+2025-04-17,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-03-17,Mumbai,Coffee,Cappuccino,3,180,540,Cash
+2025-06-27,Mumbai,Cold Drinks,Smoothie,1,250,250,Card
+2025-05-15,Delhi,Coffee,Cappuccino,3,180,540,Card
+2025-12-25,Bengaluru,Coffee,Espresso,3,120,360,Cash
+2025-03-17,Hyderabad,Cold Drinks,Cola,3,90,270,Card
+2025-12-11,Hyderabad,Coffee,Latte,2,200,400,Card
+2025-01-15,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-03-07,Hyderabad,Tea,Lemon Tea,3,90,270,UPI
+2025-04-06,Hyderabad,Bakery,Croissant,2,150,300,UPI
+2025-03-16,Delhi,Bakery,Cookie,1,60,60,UPI
+2025-02-18,Delhi,Coffee,Espresso,3,120,360,Card
+2025-02-01,Pune,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-12-01,Pune,Bakery,Croissant,3,150,450,Card
+2025-08-06,Pune,Coffee,Latte,3,200,600,UPI
+2025-08-31,Mumbai,Coffee,Cold Brew,1,220,220,UPI
+2025-10-18,Mumbai,Tea,Green Tea,3,100,300,Card
+2025-05-09,Hyderabad,Snacks,Samosa,1,40,40,UPI
+2025-07-02,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-10-12,Hyderabad,Cold Drinks,Cola,2,90,180,Card
+2025-08-01,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-06-07,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-05-25,Mumbai,Snacks,Samosa,1,40,40,Cash
+2025-10-31,Pune,Bakery,Cookie,2,60,120,UPI
+2025-06-12,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-02-21,Pune,Tea,Green Tea,3,100,300,Card
+2025-06-15,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-12-26,Pune,Coffee,Latte,1,200,200,UPI
+2025-09-26,Hyderabad,Tea,Green Tea,1,100,100,Card
+2025-09-08,Mumbai,Cold Drinks,Cola,2,90,180,UPI
+2025-01-02,Delhi,Bakery,Croissant,3,150,450,Card
+2025-06-18,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-07-01,Bengaluru,Coffee,Cappuccino,3,180,540,Card
+2025-09-06,Pune,Bakery,Croissant,1,150,150,UPI
+2025-07-08,Delhi,Coffee,Espresso,2,120,240,Card
+2025-07-15,Bengaluru,Coffee,Cappuccino,2,180,360,Card
+2025-07-14,Hyderabad,Bakery,Cookie,1,60,60,UPI
+2025-05-01,Mumbai,Coffee,Cold Brew,3,220,660,Cash
+2025-01-26,Hyderabad,Coffee,Espresso,1,120,120,Card
+2025-02-18,Pune,Bakery,Muffin,2,120,240,UPI
+2025-12-24,Hyderabad,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-11-19,Bengaluru,Coffee,Latte,3,200,600,Card
+2025-08-22,Pune,Coffee,Latte,2,200,400,Card
+2025-07-17,Hyderabad,Coffee,Cold Brew,2,220,440,Card
+2025-04-21,Hyderabad,Tea,Masala Chai,1,80,80,Cash
+2025-07-21,Delhi,Bakery,Muffin,2,120,240,UPI
+2025-12-20,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-06-30,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-05-14,Bengaluru,Coffee,Latte,3,200,600,UPI
+2025-06-24,Delhi,Coffee,Latte,2,200,400,UPI
+2025-12-07,Pune,Cold Drinks,Smoothie,1,250,250,UPI
+2025-02-20,Pune,Coffee,Cold Brew,2,220,440,Cash
+2025-12-28,Hyderabad,Cold Drinks,Cola,2,90,180,Card
+2025-01-13,Delhi,Coffee,Latte,2,200,400,UPI
+2025-08-21,Hyderabad,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-08-18,Mumbai,Tea,Green Tea,3,100,300,Cash
+2025-03-30,Pune,Bakery,Croissant,3,150,450,UPI
+2025-02-27,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-03-23,Bengaluru,Coffee,Cappuccino,1,180,180,Card
+2025-01-05,Bengaluru,Coffee,Espresso,3,120,360,Cash
+2025-01-25,Hyderabad,Tea,Green Tea,1,100,100,Cash
+2025-09-24,Hyderabad,Tea,Lemon Tea,1,90,90,UPI
+2025-08-26,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-12-24,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-09-25,Mumbai,Bakery,Cookie,2,60,120,UPI
+2025-02-22,Hyderabad,Tea,Green Tea,2,100,200,Card
+2025-05-20,Hyderabad,Cold Drinks,Cola,3,90,270,Card
+2025-10-03,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-07-26,Mumbai,Coffee,Cappuccino,2,180,360,UPI
+2025-05-13,Hyderabad,Bakery,Cookie,3,60,180,UPI
+2025-02-01,Hyderabad,Cold Drinks,Smoothie,1,250,250,UPI
+2025-12-29,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-12-25,Mumbai,Bakery,Cookie,2,60,120,Card
+2025-10-19,Mumbai,Bakery,Muffin,3,120,360,Card
+2025-06-15,Bengaluru,Snacks,Samosa,2,40,80,UPI
+2025-05-14,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-03-12,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-07-29,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-12-23,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-06-10,Bengaluru,Snacks,Sandwich,3,180,540,UPI
+2025-02-25,Delhi,Coffee,Latte,1,200,200,Card
+2025-04-02,Hyderabad,Cold Drinks,Cola,3,90,270,UPI
+2025-09-13,Mumbai,Tea,Lemon Tea,3,90,270,UPI
+2025-09-12,Delhi,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-10-28,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-04-08,Delhi,Bakery,Croissant,1,150,150,Card
+2025-12-30,Bengaluru,Bakery,Cookie,1,60,60,Cash
+2025-07-29,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-03-19,Bengaluru,Bakery,Croissant,2,150,300,UPI
+2025-04-02,Hyderabad,Tea,Masala Chai,2,80,160,UPI
+2025-02-15,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-11-27,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-07-14,Mumbai,Tea,Lemon Tea,1,90,90,UPI
+2025-10-01,Mumbai,Tea,Lemon Tea,3,90,270,Cash
+2025-06-15,Pune,Tea,Lemon Tea,2,90,180,UPI
+2025-06-29,Mumbai,Snacks,Samosa,1,40,40,UPI
+2025-09-12,Hyderabad,Bakery,Croissant,1,150,150,Cash
+2025-11-10,Delhi,Bakery,Croissant,1,150,150,Cash
+2025-09-30,Bengaluru,Coffee,Latte,3,200,600,Cash
+2025-03-12,Pune,Cold Drinks,Cola,1,90,90,UPI
+2025-10-04,Delhi,Coffee,Cappuccino,3,180,540,UPI
+2025-04-02,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-05-15,Bengaluru,Snacks,Samosa,3,40,120,UPI
+2025-04-30,Pune,Cold Drinks,Cola,1,90,90,Card
+2025-12-05,Pune,Bakery,Croissant,2,150,300,Cash
+2025-09-25,Pune,Coffee,Cold Brew,1,220,220,Cash
+2025-01-21,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-02-12,Pune,Coffee,Espresso,1,120,120,UPI
+2025-03-21,Mumbai,Snacks,Sandwich,1,180,180,UPI
+2025-07-01,Pune,Coffee,Cold Brew,1,220,220,Card
+2025-08-16,Bengaluru,Snacks,Sandwich,3,180,540,UPI
+2025-10-07,Delhi,Tea,Masala Chai,3,80,240,UPI
+2025-07-24,Mumbai,Coffee,Cold Brew,1,220,220,UPI
+2025-01-20,Pune,Snacks,Fries,2,120,240,Card
+2025-10-11,Delhi,Coffee,Cappuccino,2,180,360,Cash
+2025-02-23,Mumbai,Tea,Lemon Tea,3,90,270,UPI
+2025-03-21,Pune,Coffee,Espresso,3,120,360,Card
+2025-04-11,Pune,Snacks,Samosa,3,40,120,Cash
+2025-05-23,Mumbai,Tea,Masala Chai,1,80,80,UPI
+2025-07-04,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-10-05,Pune,Coffee,Latte,1,200,200,Card
+2025-08-08,Pune,Bakery,Cookie,1,60,60,UPI
+2025-12-21,Pune,Coffee,Espresso,3,120,360,Card
+2025-03-19,Delhi,Snacks,Sandwich,2,180,360,Card
+2025-10-12,Hyderabad,Coffee,Espresso,2,120,240,Card
+2025-08-10,Delhi,Coffee,Cappuccino,3,180,540,Cash
+2025-01-02,Bengaluru,Snacks,Samosa,2,40,80,UPI
+2025-11-09,Pune,Tea,Green Tea,3,100,300,Card
+2025-07-11,Delhi,Coffee,Cold Brew,3,220,660,Card
+2025-06-27,Pune,Coffee,Cappuccino,3,180,540,Cash
+2025-04-26,Mumbai,Tea,Lemon Tea,2,90,180,UPI
+2025-07-22,Mumbai,Coffee,Cappuccino,1,180,180,Card
+2025-08-11,Delhi,Tea,Green Tea,1,100,100,UPI
+2025-03-13,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-12-31,Delhi,Snacks,Fries,1,120,120,UPI
+2025-01-27,Hyderabad,Coffee,Cappuccino,3,180,540,UPI
+2025-09-06,Mumbai,Cold Drinks,Smoothie,3,250,750,Card
+2025-05-05,Pune,Coffee,Cold Brew,2,220,440,Card
+2025-08-02,Pune,Bakery,Croissant,2,150,300,UPI
+2025-06-07,Delhi,Tea,Masala Chai,3,80,240,Card
+2025-03-27,Hyderabad,Snacks,Fries,1,120,120,Card
+2025-04-22,Delhi,Cold Drinks,Cola,1,90,90,UPI
+2025-08-02,Pune,Coffee,Latte,1,200,200,UPI
+2025-11-17,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-02-14,Mumbai,Tea,Masala Chai,2,80,160,Cash
+2025-04-24,Pune,Coffee,Cappuccino,3,180,540,Card
+2025-05-28,Mumbai,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-04-23,Pune,Coffee,Latte,1,200,200,Card
+2025-11-18,Mumbai,Bakery,Muffin,2,120,240,UPI
+2025-02-15,Hyderabad,Bakery,Cookie,1,60,60,UPI
+2025-02-11,Pune,Snacks,Fries,3,120,360,UPI
+2025-06-05,Mumbai,Tea,Lemon Tea,1,90,90,UPI
+2025-04-13,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-10-15,Delhi,Bakery,Cookie,2,60,120,Cash
+2025-05-24,Pune,Bakery,Croissant,3,150,450,UPI
+2025-06-02,Hyderabad,Coffee,Espresso,2,120,240,Cash
+2025-11-23,Delhi,Tea,Green Tea,3,100,300,UPI
+2025-02-21,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-02-27,Mumbai,Snacks,Samosa,1,40,40,UPI
+2025-09-24,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-03-28,Mumbai,Cold Drinks,Smoothie,1,250,250,UPI
+2025-07-25,Mumbai,Tea,Green Tea,3,100,300,Card
+2025-06-09,Delhi,Tea,Green Tea,3,100,300,Card
+2025-09-22,Mumbai,Coffee,Latte,1,200,200,Card
+2025-06-18,Hyderabad,Cold Drinks,Smoothie,1,250,250,Cash
+2025-06-22,Mumbai,Snacks,Sandwich,2,180,360,UPI
+2025-02-14,Pune,Bakery,Croissant,3,150,450,UPI
+2025-11-26,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-08-23,Delhi,Coffee,Espresso,3,120,360,UPI
+2025-06-02,Bengaluru,Snacks,Samosa,1,40,40,UPI
+2025-10-04,Mumbai,Coffee,Cold Brew,2,220,440,Card
+2025-08-14,Bengaluru,Cold Drinks,Iced Tea,3,140,420,Card
+2025-06-08,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-03-19,Pune,Coffee,Cappuccino,3,180,540,Card
+2025-07-31,Bengaluru,Coffee,Cold Brew,3,220,660,Card
+2025-02-27,Mumbai,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-07-27,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-03-07,Hyderabad,Tea,Lemon Tea,2,90,180,Card
+2025-01-08,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-04-21,Mumbai,Tea,Lemon Tea,1,90,90,UPI
+2025-10-21,Hyderabad,Bakery,Cookie,2,60,120,UPI
+2025-03-31,Mumbai,Tea,Masala Chai,2,80,160,Cash
+2025-01-12,Bengaluru,Snacks,Sandwich,3,180,540,UPI
+2025-02-08,Hyderabad,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-10-07,Hyderabad,Cold Drinks,Cola,1,90,90,UPI
+2025-03-05,Bengaluru,Cold Drinks,Cola,3,90,270,UPI
+2025-05-29,Hyderabad,Bakery,Croissant,1,150,150,UPI
+2025-04-27,Hyderabad,Coffee,Espresso,2,120,240,Cash
+2025-03-29,Hyderabad,Tea,Lemon Tea,1,90,90,UPI
+2025-07-13,Pune,Bakery,Croissant,3,150,450,Card
+2025-05-11,Delhi,Tea,Masala Chai,3,80,240,UPI
+2025-01-06,Delhi,Tea,Lemon Tea,2,90,180,UPI
+2025-11-14,Bengaluru,Coffee,Cappuccino,1,180,180,Cash
+2025-07-18,Hyderabad,Bakery,Cookie,2,60,120,UPI
+2025-12-10,Delhi,Cold Drinks,Cola,2,90,180,Card
+2025-10-21,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-03-03,Mumbai,Coffee,Cold Brew,3,220,660,UPI
+2025-04-24,Delhi,Coffee,Espresso,3,120,360,UPI
+2025-09-12,Delhi,Snacks,Sandwich,3,180,540,Card
+2025-05-15,Mumbai,Cold Drinks,Smoothie,2,250,500,Cash
+2025-10-31,Pune,Bakery,Muffin,3,120,360,UPI
+2025-06-25,Hyderabad,Coffee,Espresso,3,120,360,Card
+2025-02-11,Bengaluru,Coffee,Cold Brew,2,220,440,Card
+2025-12-07,Bengaluru,Snacks,Sandwich,2,180,360,Cash
+2025-12-05,Hyderabad,Tea,Masala Chai,2,80,160,UPI
+2025-02-16,Bengaluru,Bakery,Muffin,3,120,360,Cash
+2025-04-28,Mumbai,Snacks,Fries,1,120,120,Cash
+2025-07-07,Pune,Coffee,Latte,3,200,600,Card
+2025-01-13,Hyderabad,Cold Drinks,Smoothie,2,250,500,UPI
+2025-12-05,Mumbai,Cold Drinks,Smoothie,3,250,750,UPI
+2025-09-04,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-11-26,Delhi,Coffee,Latte,1,200,200,UPI
+2025-02-25,Mumbai,Cold Drinks,Smoothie,1,250,250,UPI
+2025-08-27,Hyderabad,Coffee,Cappuccino,1,180,180,Cash
+2025-01-05,Pune,Cold Drinks,Cola,1,90,90,Card
+2025-06-02,Delhi,Coffee,Cold Brew,2,220,440,Cash
+2025-02-13,Pune,Coffee,Cappuccino,1,180,180,Cash
+2025-11-18,Pune,Tea,Lemon Tea,1,90,90,UPI
+2025-06-13,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-05-30,Mumbai,Coffee,Latte,1,200,200,Cash
+2025-04-28,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-03-17,Delhi,Coffee,Espresso,3,120,360,Card
+2025-02-16,Hyderabad,Tea,Green Tea,3,100,300,Cash
+2025-04-03,Delhi,Bakery,Muffin,1,120,120,Cash
+2025-04-02,Hyderabad,Snacks,Samosa,1,40,40,Cash
+2025-06-09,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-05-18,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-08-09,Pune,Coffee,Cappuccino,2,180,360,Cash
+2025-12-04,Hyderabad,Bakery,Cookie,3,60,180,UPI
+2025-01-02,Hyderabad,Bakery,Cookie,3,60,180,Card
+2025-09-10,Bengaluru,Coffee,Latte,3,200,600,Card
+2025-12-13,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-10-31,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-01-25,Delhi,Coffee,Cappuccino,3,180,540,Card
+2025-08-12,Mumbai,Snacks,Sandwich,3,180,540,UPI
+2025-02-24,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-04-18,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-01-01,Delhi,Bakery,Muffin,1,120,120,UPI
+2025-12-19,Bengaluru,Bakery,Muffin,1,120,120,UPI
+2025-10-13,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-07-23,Hyderabad,Bakery,Croissant,3,150,450,UPI
+2025-04-25,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-08-23,Pune,Bakery,Cookie,2,60,120,UPI
+2025-09-11,Hyderabad,Tea,Green Tea,1,100,100,Cash
+2025-10-18,Pune,Snacks,Fries,3,120,360,UPI
+2025-06-18,Mumbai,Bakery,Cookie,1,60,60,Card
+2025-08-12,Bengaluru,Coffee,Latte,3,200,600,UPI
+2025-04-13,Hyderabad,Cold Drinks,Iced Tea,3,140,420,Card
+2025-01-07,Pune,Bakery,Cookie,3,60,180,Cash
+2025-07-09,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-11-04,Bengaluru,Cold Drinks,Cola,1,90,90,UPI
+2025-11-20,Hyderabad,Coffee,Latte,1,200,200,Cash
+2025-10-18,Hyderabad,Tea,Green Tea,1,100,100,UPI
+2025-12-29,Pune,Cold Drinks,Cola,1,90,90,Card
+2025-03-11,Mumbai,Bakery,Muffin,1,120,120,UPI
+2025-11-05,Bengaluru,Coffee,Cappuccino,3,180,540,Cash
+2025-09-08,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-12-21,Pune,Snacks,Sandwich,2,180,360,Card
+2025-05-25,Pune,Snacks,Sandwich,1,180,180,Card
+2025-06-21,Mumbai,Tea,Masala Chai,2,80,160,UPI
+2025-05-11,Bengaluru,Cold Drinks,Cola,3,90,270,Card
+2025-03-09,Bengaluru,Coffee,Latte,2,200,400,Cash
+2025-10-31,Delhi,Coffee,Cold Brew,2,220,440,Cash
+2025-06-16,Pune,Snacks,Sandwich,2,180,360,UPI
+2025-05-15,Pune,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-02-05,Mumbai,Coffee,Cappuccino,3,180,540,Cash
+2025-07-30,Mumbai,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-05-01,Delhi,Coffee,Cappuccino,1,180,180,UPI
+2025-09-06,Mumbai,Tea,Masala Chai,1,80,80,Card
+2025-04-18,Bengaluru,Tea,Masala Chai,2,80,160,UPI
+2025-12-26,Delhi,Tea,Lemon Tea,2,90,180,Cash
+2025-11-24,Hyderabad,Coffee,Cold Brew,3,220,660,UPI
+2025-08-29,Hyderabad,Coffee,Cappuccino,2,180,360,Card
+2025-08-11,Hyderabad,Cold Drinks,Iced Tea,1,140,140,Card
+2025-02-08,Delhi,Bakery,Muffin,3,120,360,UPI
+2025-11-30,Pune,Snacks,Sandwich,3,180,540,UPI
+2025-07-31,Delhi,Coffee,Latte,3,200,600,Cash
+2025-10-02,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-09-15,Pune,Tea,Green Tea,1,100,100,UPI
+2025-03-12,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-05-05,Hyderabad,Coffee,Latte,3,200,600,Card
+2025-09-19,Hyderabad,Coffee,Cappuccino,1,180,180,Cash
+2025-11-01,Pune,Bakery,Croissant,3,150,450,Card
+2025-03-27,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-09-07,Mumbai,Tea,Lemon Tea,2,90,180,UPI
+2025-07-05,Mumbai,Coffee,Cappuccino,2,180,360,Card
+2025-09-09,Hyderabad,Bakery,Croissant,2,150,300,UPI
+2025-10-16,Mumbai,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-04-14,Bengaluru,Snacks,Sandwich,3,180,540,Card
+2025-11-18,Pune,Bakery,Cookie,3,60,180,UPI
+2025-01-14,Delhi,Bakery,Cookie,1,60,60,Card
+2025-02-03,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-05-01,Pune,Bakery,Muffin,3,120,360,UPI
+2025-01-20,Bengaluru,Bakery,Croissant,3,150,450,Card
+2025-06-26,Pune,Coffee,Cappuccino,3,180,540,Cash
+2025-01-11,Hyderabad,Tea,Green Tea,3,100,300,UPI
+2025-09-12,Hyderabad,Bakery,Cookie,2,60,120,UPI
+2025-10-09,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-11-20,Bengaluru,Coffee,Cold Brew,2,220,440,Card
+2025-11-27,Pune,Cold Drinks,Cola,3,90,270,Cash
+2025-04-28,Delhi,Coffee,Espresso,3,120,360,UPI
+2025-05-03,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-03-12,Delhi,Coffee,Espresso,3,120,360,Card
+2025-01-06,Hyderabad,Coffee,Latte,1,200,200,Cash
+2025-06-05,Hyderabad,Bakery,Cookie,3,60,180,Card
+2025-12-14,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-07-21,Delhi,Tea,Lemon Tea,3,90,270,Card
+2025-06-19,Delhi,Cold Drinks,Iced Tea,3,140,420,Card
+2025-12-24,Delhi,Snacks,Fries,2,120,240,UPI
+2025-02-06,Mumbai,Bakery,Croissant,2,150,300,UPI
+2025-08-08,Delhi,Coffee,Espresso,1,120,120,UPI
+2025-03-10,Hyderabad,Coffee,Cappuccino,2,180,360,Cash
+2025-11-01,Hyderabad,Cold Drinks,Cola,3,90,270,Cash
+2025-05-14,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-09-24,Pune,Coffee,Espresso,1,120,120,Cash
+2025-09-14,Delhi,Tea,Green Tea,3,100,300,UPI
+2025-09-12,Pune,Coffee,Latte,1,200,200,UPI
+2025-10-22,Delhi,Tea,Lemon Tea,3,90,270,UPI
+2025-09-25,Bengaluru,Coffee,Cold Brew,2,220,440,Card
+2025-03-31,Delhi,Bakery,Muffin,2,120,240,UPI
+2025-03-16,Mumbai,Snacks,Samosa,1,40,40,Cash
+2025-04-18,Delhi,Coffee,Latte,1,200,200,UPI
+2025-07-06,Mumbai,Tea,Lemon Tea,2,90,180,UPI
+2025-10-02,Delhi,Coffee,Espresso,1,120,120,Cash
+2025-02-16,Bengaluru,Bakery,Cookie,2,60,120,Card
+2025-01-11,Mumbai,Coffee,Latte,2,200,400,Cash
+2025-11-12,Mumbai,Coffee,Cold Brew,1,220,220,Cash
+2025-12-05,Mumbai,Coffee,Latte,2,200,400,Card
+2025-06-09,Delhi,Coffee,Latte,2,200,400,UPI
+2025-06-20,Bengaluru,Snacks,Samosa,2,40,80,UPI
+2025-07-17,Pune,Snacks,Sandwich,3,180,540,UPI
+2025-10-05,Bengaluru,Tea,Green Tea,2,100,200,Cash
+2025-03-11,Pune,Snacks,Sandwich,2,180,360,Card
+2025-12-25,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-10-04,Bengaluru,Coffee,Cappuccino,1,180,180,Card
+2025-05-14,Bengaluru,Coffee,Cold Brew,2,220,440,Card
+2025-09-10,Hyderabad,Bakery,Muffin,2,120,240,Card
+2025-02-20,Hyderabad,Coffee,Espresso,1,120,120,Card
+2025-03-26,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-01-29,Pune,Bakery,Croissant,2,150,300,UPI
+2025-01-29,Pune,Bakery,Muffin,2,120,240,Cash
+2025-05-22,Hyderabad,Snacks,Fries,2,120,240,Cash
+2025-01-12,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-10-02,Delhi,Bakery,Cookie,1,60,60,Card
+2025-01-21,Hyderabad,Snacks,Samosa,2,40,80,UPI
+2025-04-28,Pune,Tea,Masala Chai,3,80,240,UPI
+2025-01-17,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-02-26,Bengaluru,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-05-18,Bengaluru,Coffee,Cappuccino,3,180,540,UPI
+2025-04-27,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-03-05,Hyderabad,Coffee,Cappuccino,3,180,540,Card
+2025-03-10,Mumbai,Coffee,Latte,2,200,400,Card
+2025-05-22,Mumbai,Coffee,Cappuccino,2,180,360,Cash
+2025-03-28,Delhi,Cold Drinks,Smoothie,2,250,500,Card
+2025-11-28,Delhi,Bakery,Muffin,2,120,240,Card
+2025-07-31,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-07-16,Pune,Snacks,Sandwich,2,180,360,UPI
+2025-04-14,Hyderabad,Bakery,Cookie,1,60,60,Cash
+2025-02-14,Delhi,Coffee,Latte,1,200,200,UPI
+2025-05-12,Hyderabad,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-04-05,Hyderabad,Tea,Masala Chai,2,80,160,Card
+2025-02-25,Pune,Snacks,Sandwich,3,180,540,UPI
+2025-01-13,Bengaluru,Bakery,Croissant,3,150,450,UPI
+2025-07-24,Delhi,Coffee,Latte,2,200,400,UPI
+2025-05-25,Mumbai,Coffee,Espresso,1,120,120,Card
+2025-01-29,Delhi,Bakery,Muffin,2,120,240,Cash
+2025-11-06,Mumbai,Snacks,Sandwich,2,180,360,Card
+2025-01-08,Pune,Coffee,Espresso,2,120,240,Card
+2025-05-21,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-05-25,Hyderabad,Snacks,Sandwich,3,180,540,UPI
+2025-09-16,Bengaluru,Tea,Lemon Tea,2,90,180,UPI
+2025-02-12,Hyderabad,Bakery,Muffin,2,120,240,Card
+2025-10-05,Delhi,Bakery,Muffin,3,120,360,Cash
+2025-03-30,Pune,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-01-09,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-07-07,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-11-26,Mumbai,Cold Drinks,Cola,1,90,90,UPI
+2025-12-20,Pune,Tea,Lemon Tea,1,90,90,UPI
+2025-01-09,Hyderabad,Coffee,Latte,1,200,200,Card
+2025-06-22,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-10-16,Bengaluru,Coffee,Espresso,1,120,120,Cash
+2025-10-04,Bengaluru,Coffee,Espresso,1,120,120,Card
+2025-08-10,Pune,Coffee,Latte,3,200,600,Card
+2025-12-21,Mumbai,Snacks,Fries,1,120,120,Card
+2025-02-18,Bengaluru,Tea,Lemon Tea,2,90,180,Cash
+2025-06-10,Pune,Tea,Masala Chai,1,80,80,UPI
+2025-06-22,Mumbai,Snacks,Sandwich,3,180,540,UPI
+2025-05-23,Mumbai,Cold Drinks,Cola,1,90,90,Card
+2025-02-17,Hyderabad,Tea,Masala Chai,3,80,240,UPI
+2025-09-11,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-04-23,Delhi,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-02-18,Pune,Cold Drinks,Cola,3,90,270,Card
+2025-04-24,Delhi,Bakery,Croissant,2,150,300,UPI
+2025-10-11,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-09-05,Hyderabad,Tea,Lemon Tea,1,90,90,Card
+2025-11-17,Bengaluru,Snacks,Samosa,2,40,80,Card
+2025-05-03,Delhi,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-07-11,Delhi,Coffee,Espresso,2,120,240,UPI
+2025-06-14,Bengaluru,Snacks,Sandwich,3,180,540,UPI
+2025-05-13,Hyderabad,Tea,Masala Chai,3,80,240,Card
+2025-01-06,Pune,Coffee,Espresso,3,120,360,UPI
+2025-10-07,Mumbai,Coffee,Latte,2,200,400,Cash
+2025-10-08,Delhi,Coffee,Cappuccino,3,180,540,UPI
+2025-03-06,Pune,Coffee,Espresso,3,120,360,Cash
+2025-07-09,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-09-05,Bengaluru,Snacks,Fries,1,120,120,Card
+2025-10-05,Hyderabad,Coffee,Cold Brew,1,220,220,Cash
+2025-08-22,Bengaluru,Coffee,Cold Brew,1,220,220,Card
+2025-06-12,Mumbai,Coffee,Cappuccino,2,180,360,Card
+2025-04-04,Hyderabad,Tea,Green Tea,1,100,100,UPI
+2025-07-21,Delhi,Bakery,Croissant,2,150,300,Cash
+2025-08-15,Mumbai,Cold Drinks,Iced Tea,3,140,420,Cash
+2025-05-30,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-11-09,Hyderabad,Snacks,Fries,2,120,240,Card
+2025-10-28,Bengaluru,Bakery,Cookie,1,60,60,UPI
+2025-10-04,Mumbai,Snacks,Samosa,2,40,80,Card
+2025-10-04,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-04-17,Pune,Tea,Masala Chai,2,80,160,UPI
+2025-08-26,Delhi,Tea,Green Tea,2,100,200,Card
+2025-11-23,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-09-18,Delhi,Tea,Masala Chai,3,80,240,UPI
+2025-02-21,Mumbai,Cold Drinks,Iced Tea,2,140,280,Card
+2025-01-20,Hyderabad,Coffee,Cappuccino,2,180,360,Card
+2025-07-26,Delhi,Bakery,Muffin,3,120,360,Card
+2025-07-08,Delhi,Cold Drinks,Smoothie,2,250,500,UPI
+2025-04-19,Mumbai,Bakery,Cookie,3,60,180,Card
+2025-04-18,Mumbai,Snacks,Fries,2,120,240,UPI
+2025-02-04,Delhi,Coffee,Cold Brew,1,220,220,Card
+2025-06-12,Hyderabad,Snacks,Fries,1,120,120,Cash
+2025-02-12,Hyderabad,Coffee,Cold Brew,2,220,440,Card
+2025-08-03,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-10-18,Delhi,Tea,Masala Chai,3,80,240,Card
+2025-08-21,Delhi,Snacks,Sandwich,2,180,360,Card
+2025-01-28,Mumbai,Cold Drinks,Smoothie,3,250,750,Card
+2025-10-21,Delhi,Coffee,Cappuccino,2,180,360,Cash
+2025-10-06,Mumbai,Coffee,Cappuccino,1,180,180,Cash
+2025-03-18,Bengaluru,Coffee,Latte,1,200,200,Cash
+2025-09-28,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-02-20,Hyderabad,Tea,Green Tea,2,100,200,UPI
+2025-04-27,Bengaluru,Bakery,Cookie,1,60,60,UPI
+2025-04-23,Pune,Coffee,Cappuccino,1,180,180,Card
+2025-01-14,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-11-11,Mumbai,Snacks,Fries,3,120,360,UPI
+2025-01-20,Pune,Coffee,Espresso,1,120,120,Cash
+2025-07-18,Delhi,Coffee,Latte,2,200,400,Card
+2025-04-08,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-06-12,Bengaluru,Coffee,Cold Brew,2,220,440,UPI
+2025-06-19,Bengaluru,Cold Drinks,Iced Tea,2,140,280,Cash
+2025-12-12,Hyderabad,Bakery,Muffin,2,120,240,Card
+2025-03-27,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-12-21,Mumbai,Bakery,Cookie,1,60,60,UPI
+2025-11-15,Pune,Coffee,Latte,1,200,200,Cash
+2025-12-03,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-01-19,Pune,Cold Drinks,Smoothie,3,250,750,UPI
+2025-01-05,Mumbai,Cold Drinks,Cola,3,90,270,UPI
+2025-05-27,Mumbai,Coffee,Cold Brew,1,220,220,UPI
+2025-09-24,Delhi,Bakery,Croissant,1,150,150,UPI
+2025-03-25,Bengaluru,Coffee,Latte,1,200,200,Cash
+2025-06-26,Mumbai,Coffee,Espresso,2,120,240,Cash
+2025-04-16,Hyderabad,Bakery,Muffin,2,120,240,UPI
+2025-05-01,Mumbai,Cold Drinks,Smoothie,3,250,750,UPI
+2025-09-21,Pune,Bakery,Croissant,3,150,450,UPI
+2025-05-14,Mumbai,Coffee,Cold Brew,3,220,660,Card
+2025-06-27,Pune,Cold Drinks,Cola,3,90,270,UPI
+2025-04-22,Hyderabad,Coffee,Espresso,2,120,240,UPI
+2025-05-28,Pune,Cold Drinks,Smoothie,1,250,250,Card
+2025-06-25,Pune,Coffee,Latte,2,200,400,UPI
+2025-05-20,Hyderabad,Snacks,Sandwich,3,180,540,UPI
+2025-05-08,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-10-31,Mumbai,Coffee,Latte,1,200,200,Card
+2025-09-23,Pune,Tea,Lemon Tea,2,90,180,Card
+2025-11-22,Hyderabad,Bakery,Muffin,1,120,120,Cash
+2025-08-31,Bengaluru,Coffee,Espresso,2,120,240,Card
+2025-09-25,Hyderabad,Coffee,Cold Brew,3,220,660,Card
+2025-06-02,Pune,Tea,Green Tea,1,100,100,UPI
+2025-12-17,Hyderabad,Tea,Green Tea,2,100,200,UPI
+2025-06-11,Bengaluru,Tea,Masala Chai,1,80,80,Cash
+2025-03-17,Bengaluru,Snacks,Samosa,3,40,120,UPI
+2025-04-14,Hyderabad,Bakery,Croissant,2,150,300,Card
+2025-07-17,Pune,Coffee,Latte,3,200,600,UPI
+2025-12-24,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-01-29,Delhi,Tea,Lemon Tea,3,90,270,Cash
+2025-03-23,Mumbai,Coffee,Latte,2,200,400,UPI
+2025-01-01,Delhi,Bakery,Cookie,1,60,60,Card
+2025-12-20,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-04-09,Mumbai,Cold Drinks,Cola,2,90,180,UPI
+2025-05-20,Pune,Bakery,Croissant,1,150,150,UPI
+2025-04-08,Delhi,Snacks,Fries,1,120,120,UPI
+2025-10-19,Pune,Tea,Green Tea,3,100,300,UPI
+2025-05-19,Mumbai,Coffee,Cappuccino,3,180,540,Card
+2025-04-20,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-11-25,Delhi,Bakery,Muffin,1,120,120,UPI
+2025-07-03,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-02-27,Hyderabad,Coffee,Cold Brew,3,220,660,Card
+2025-04-12,Bengaluru,Cold Drinks,Iced Tea,3,140,420,Card
+2025-03-09,Hyderabad,Coffee,Espresso,1,120,120,Card
+2025-09-22,Pune,Coffee,Espresso,1,120,120,UPI
+2025-02-20,Hyderabad,Coffee,Espresso,3,120,360,Card
+2025-11-27,Pune,Bakery,Cookie,3,60,180,Cash
+2025-03-27,Bengaluru,Tea,Lemon Tea,1,90,90,Card
+2025-12-09,Mumbai,Bakery,Muffin,1,120,120,Card
+2025-02-01,Hyderabad,Snacks,Sandwich,3,180,540,UPI
+2025-01-05,Hyderabad,Coffee,Espresso,1,120,120,Card
+2025-03-21,Pune,Bakery,Croissant,2,150,300,Card
+2025-08-31,Hyderabad,Tea,Lemon Tea,2,90,180,Cash
+2025-01-29,Mumbai,Snacks,Fries,3,120,360,Card
+2025-01-22,Pune,Snacks,Fries,3,120,360,UPI
+2025-04-01,Mumbai,Bakery,Muffin,3,120,360,Card
+2025-12-05,Bengaluru,Coffee,Espresso,2,120,240,Card
+2025-09-19,Pune,Coffee,Espresso,2,120,240,UPI
+2025-12-22,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-08-22,Pune,Coffee,Espresso,3,120,360,UPI
+2025-08-25,Delhi,Bakery,Cookie,1,60,60,Cash
+2025-06-13,Pune,Snacks,Samosa,1,40,40,Card
+2025-12-10,Hyderabad,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-04-25,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-02-13,Hyderabad,Tea,Masala Chai,3,80,240,Card
+2025-07-26,Bengaluru,Snacks,Samosa,3,40,120,Cash
+2025-04-02,Hyderabad,Coffee,Latte,1,200,200,Cash
+2025-05-09,Delhi,Tea,Lemon Tea,3,90,270,Card
+2025-07-16,Hyderabad,Bakery,Muffin,2,120,240,Card
+2025-03-17,Mumbai,Coffee,Cold Brew,3,220,660,Card
+2025-01-17,Hyderabad,Coffee,Cold Brew,1,220,220,Cash
+2025-10-02,Pune,Coffee,Cold Brew,2,220,440,UPI
+2025-05-23,Mumbai,Bakery,Cookie,2,60,120,Card
+2025-05-18,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-02-19,Bengaluru,Coffee,Cold Brew,2,220,440,Cash
+2025-09-28,Hyderabad,Coffee,Cold Brew,1,220,220,Cash
+2025-02-28,Delhi,Bakery,Croissant,2,150,300,Card
+2025-12-26,Delhi,Bakery,Croissant,1,150,150,Card
+2025-02-22,Mumbai,Coffee,Cappuccino,2,180,360,Card
+2025-09-19,Mumbai,Coffee,Cold Brew,1,220,220,Card
+2025-10-24,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-11-30,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-11-12,Pune,Coffee,Latte,2,200,400,Card
+2025-08-06,Delhi,Coffee,Latte,3,200,600,UPI
+2025-02-09,Delhi,Snacks,Fries,3,120,360,Cash
+2025-09-15,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-08-19,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-06-30,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-04-25,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-07-12,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-03-31,Pune,Cold Drinks,Smoothie,1,250,250,UPI
+2025-07-11,Bengaluru,Tea,Green Tea,1,100,100,Card
+2025-07-30,Delhi,Coffee,Espresso,1,120,120,Cash
+2025-07-13,Bengaluru,Coffee,Espresso,1,120,120,UPI
+2025-10-30,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-02-12,Hyderabad,Coffee,Espresso,1,120,120,UPI
+2025-02-11,Mumbai,Bakery,Muffin,1,120,120,UPI
+2025-09-14,Delhi,Coffee,Latte,3,200,600,UPI
+2025-03-26,Delhi,Tea,Masala Chai,3,80,240,UPI
+2025-06-01,Pune,Snacks,Samosa,1,40,40,UPI
+2025-07-15,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-03-03,Hyderabad,Snacks,Sandwich,3,180,540,Card
+2025-04-12,Delhi,Snacks,Sandwich,2,180,360,Cash
+2025-05-09,Hyderabad,Bakery,Muffin,3,120,360,UPI
+2025-11-19,Mumbai,Coffee,Latte,3,200,600,Cash
+2025-01-29,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-05-12,Mumbai,Coffee,Latte,1,200,200,Card
+2025-06-02,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-10-14,Delhi,Bakery,Muffin,2,120,240,Cash
+2025-11-18,Mumbai,Coffee,Cappuccino,3,180,540,Card
+2025-08-24,Pune,Coffee,Cappuccino,1,180,180,UPI
+2025-03-20,Pune,Bakery,Muffin,2,120,240,UPI
+2025-06-12,Pune,Coffee,Espresso,2,120,240,Card
+2025-07-01,Pune,Cold Drinks,Cola,2,90,180,UPI
+2025-07-25,Pune,Tea,Green Tea,1,100,100,UPI
+2025-02-09,Pune,Cold Drinks,Smoothie,2,250,500,UPI
+2025-07-04,Hyderabad,Snacks,Fries,2,120,240,Card
+2025-10-03,Pune,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-03-12,Hyderabad,Cold Drinks,Smoothie,3,250,750,UPI
+2025-10-25,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-11-19,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-12-31,Bengaluru,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-09-27,Bengaluru,Coffee,Espresso,1,120,120,UPI
+2025-08-06,Delhi,Coffee,Espresso,3,120,360,Cash
+2025-03-15,Delhi,Coffee,Cappuccino,3,180,540,UPI
+2025-11-18,Mumbai,Tea,Lemon Tea,2,90,180,UPI
+2025-02-26,Delhi,Bakery,Muffin,2,120,240,UPI
+2025-08-01,Delhi,Coffee,Latte,1,200,200,Card
+2025-04-16,Delhi,Tea,Green Tea,3,100,300,Card
+2025-10-03,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-09-07,Pune,Tea,Lemon Tea,2,90,180,Card
+2025-02-22,Hyderabad,Snacks,Samosa,3,40,120,UPI
+2025-05-23,Delhi,Cold Drinks,Smoothie,1,250,250,UPI
+2025-06-20,Pune,Coffee,Cappuccino,1,180,180,UPI
+2025-03-21,Mumbai,Coffee,Cold Brew,2,220,440,Card
+2025-03-28,Delhi,Bakery,Cookie,1,60,60,UPI
+2025-08-24,Pune,Coffee,Latte,3,200,600,UPI
+2025-02-26,Hyderabad,Bakery,Cookie,1,60,60,UPI
+2025-11-27,Delhi,Coffee,Espresso,1,120,120,UPI
+2025-10-30,Mumbai,Tea,Masala Chai,1,80,80,UPI
+2025-07-04,Delhi,Bakery,Muffin,1,120,120,Cash
+2025-11-30,Delhi,Snacks,Samosa,1,40,40,UPI
+2025-10-05,Bengaluru,Snacks,Samosa,2,40,80,Card
+2025-07-02,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-04-11,Delhi,Cold Drinks,Smoothie,1,250,250,Cash
+2025-09-12,Delhi,Coffee,Latte,3,200,600,UPI
+2025-10-19,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-06-02,Mumbai,Cold Drinks,Cola,2,90,180,UPI
+2025-05-24,Hyderabad,Snacks,Sandwich,1,180,180,Cash
+2025-09-05,Bengaluru,Bakery,Muffin,1,120,120,UPI
+2025-01-01,Delhi,Bakery,Cookie,2,60,120,Card
+2025-09-19,Pune,Coffee,Latte,1,200,200,Card
+2025-03-15,Delhi,Coffee,Cold Brew,2,220,440,Card
+2025-11-21,Pune,Snacks,Sandwich,3,180,540,UPI
+2025-04-28,Pune,Bakery,Muffin,1,120,120,Cash
+2025-11-05,Mumbai,Bakery,Muffin,3,120,360,Cash
+2025-04-09,Hyderabad,Snacks,Sandwich,1,180,180,UPI
+2025-03-01,Bengaluru,Tea,Green Tea,2,100,200,UPI
+2025-03-06,Mumbai,Tea,Lemon Tea,2,90,180,Card
+2025-10-14,Delhi,Cold Drinks,Smoothie,3,250,750,UPI
+2025-06-30,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-09-14,Mumbai,Coffee,Cappuccino,2,180,360,UPI
+2025-06-27,Pune,Tea,Lemon Tea,1,90,90,UPI
+2025-06-06,Mumbai,Coffee,Latte,2,200,400,UPI
+2025-09-24,Bengaluru,Bakery,Muffin,2,120,240,Card
+2025-06-15,Delhi,Tea,Masala Chai,1,80,80,UPI
+2025-03-10,Delhi,Coffee,Espresso,3,120,360,UPI
+2025-10-02,Mumbai,Coffee,Cold Brew,3,220,660,Card
+2025-11-09,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-12-18,Mumbai,Bakery,Cookie,3,60,180,UPI
+2025-08-16,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-04-12,Delhi,Snacks,Samosa,1,40,40,UPI
+2025-07-18,Delhi,Snacks,Fries,1,120,120,Card
+2025-12-15,Bengaluru,Tea,Green Tea,1,100,100,Card
+2025-09-15,Mumbai,Bakery,Cookie,1,60,60,UPI
+2025-01-12,Bengaluru,Coffee,Latte,1,200,200,UPI
+2025-11-13,Delhi,Tea,Green Tea,3,100,300,UPI
+2025-06-20,Delhi,Bakery,Croissant,3,150,450,Card
+2025-12-21,Bengaluru,Tea,Lemon Tea,1,90,90,Card
+2025-09-08,Bengaluru,Tea,Masala Chai,1,80,80,Cash
+2025-03-11,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-09-01,Delhi,Coffee,Espresso,1,120,120,UPI
+2025-11-07,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-09-04,Bengaluru,Cold Drinks,Smoothie,2,250,500,UPI
+2025-07-26,Delhi,Cold Drinks,Smoothie,2,250,500,UPI
+2025-11-25,Mumbai,Tea,Lemon Tea,3,90,270,Card
+2025-11-16,Delhi,Snacks,Fries,1,120,120,UPI
+2025-06-18,Hyderabad,Snacks,Sandwich,1,180,180,UPI
+2025-10-21,Bengaluru,Tea,Green Tea,1,100,100,Card
+2025-10-01,Hyderabad,Coffee,Cappuccino,3,180,540,UPI
+2025-11-24,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-07-25,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-04-26,Bengaluru,Coffee,Espresso,3,120,360,Cash
+2025-11-19,Bengaluru,Cold Drinks,Cola,2,90,180,UPI
+2025-07-20,Bengaluru,Snacks,Sandwich,1,180,180,UPI
+2025-10-17,Hyderabad,Bakery,Croissant,3,150,450,UPI
+2025-09-30,Mumbai,Coffee,Latte,1,200,200,Card
+2025-09-03,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-12-29,Bengaluru,Bakery,Cookie,3,60,180,UPI
+2025-10-16,Hyderabad,Snacks,Fries,1,120,120,Cash
+2025-01-10,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-11-11,Bengaluru,Snacks,Samosa,3,40,120,UPI
+2025-07-01,Delhi,Coffee,Latte,3,200,600,Card
+2025-12-11,Pune,Bakery,Muffin,1,120,120,UPI
+2025-10-11,Delhi,Snacks,Sandwich,2,180,360,UPI
+2025-02-13,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-06-05,Mumbai,Tea,Green Tea,3,100,300,Cash
+2025-01-19,Bengaluru,Tea,Lemon Tea,3,90,270,UPI
+2025-01-28,Delhi,Coffee,Cold Brew,2,220,440,UPI
+2025-07-04,Pune,Coffee,Latte,2,200,400,Card
+2025-03-26,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-12-14,Hyderabad,Tea,Green Tea,3,100,300,UPI
+2025-02-28,Bengaluru,Bakery,Muffin,2,120,240,Cash
+2025-01-22,Mumbai,Coffee,Cold Brew,3,220,660,UPI
+2025-01-28,Bengaluru,Coffee,Cold Brew,3,220,660,UPI
+2025-12-07,Delhi,Cold Drinks,Cola,2,90,180,Card
+2025-05-28,Pune,Coffee,Cold Brew,3,220,660,Card
+2025-09-21,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-05-06,Hyderabad,Tea,Masala Chai,1,80,80,Cash
+2025-10-21,Delhi,Tea,Green Tea,1,100,100,UPI
+2025-12-28,Pune,Bakery,Cookie,2,60,120,Card
+2025-07-07,Delhi,Bakery,Muffin,1,120,120,UPI
+2025-03-08,Bengaluru,Cold Drinks,Smoothie,1,250,250,UPI
+2025-03-26,Delhi,Tea,Green Tea,3,100,300,UPI
+2025-10-24,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-02-08,Delhi,Bakery,Croissant,1,150,150,Card
+2025-02-14,Bengaluru,Tea,Masala Chai,3,80,240,Cash
+2025-01-03,Delhi,Snacks,Fries,1,120,120,UPI
+2025-04-24,Delhi,Tea,Masala Chai,3,80,240,UPI
+2025-10-10,Bengaluru,Bakery,Cookie,1,60,60,Cash
+2025-07-07,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-09-16,Hyderabad,Coffee,Cappuccino,1,180,180,Card
+2025-12-20,Hyderabad,Coffee,Cold Brew,2,220,440,UPI
+2025-01-24,Bengaluru,Coffee,Cappuccino,1,180,180,Cash
+2025-10-23,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-11-15,Delhi,Coffee,Espresso,1,120,120,UPI
+2025-03-20,Pune,Coffee,Latte,1,200,200,Card
+2025-11-13,Delhi,Tea,Green Tea,1,100,100,UPI
+2025-12-20,Hyderabad,Coffee,Cold Brew,1,220,220,Card
+2025-02-20,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-03-09,Delhi,Tea,Masala Chai,3,80,240,UPI
+2025-04-16,Delhi,Cold Drinks,Smoothie,1,250,250,UPI
+2025-07-29,Delhi,Tea,Green Tea,2,100,200,Card
+2025-09-23,Hyderabad,Snacks,Samosa,2,40,80,Cash
+2025-06-28,Hyderabad,Coffee,Latte,1,200,200,UPI
+2025-04-19,Mumbai,Coffee,Latte,3,200,600,Card
+2025-08-15,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-05-03,Pune,Coffee,Latte,1,200,200,Card
+2025-06-17,Bengaluru,Cold Drinks,Smoothie,2,250,500,UPI
+2025-08-08,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-07-01,Bengaluru,Tea,Masala Chai,1,80,80,Card
+2025-03-11,Hyderabad,Bakery,Croissant,3,150,450,Card
+2025-10-05,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-10-10,Mumbai,Coffee,Cold Brew,1,220,220,UPI
+2025-03-18,Hyderabad,Coffee,Latte,1,200,200,UPI
+2025-08-09,Mumbai,Bakery,Muffin,1,120,120,Card
+2025-01-02,Bengaluru,Tea,Lemon Tea,3,90,270,UPI
+2025-01-18,Delhi,Tea,Green Tea,1,100,100,UPI
+2025-11-30,Pune,Coffee,Latte,3,200,600,UPI
+2025-09-17,Pune,Coffee,Latte,2,200,400,UPI
+2025-01-20,Hyderabad,Coffee,Cold Brew,2,220,440,UPI
+2025-01-16,Delhi,Coffee,Cold Brew,2,220,440,Card
+2025-07-30,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-08-18,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-10-16,Pune,Coffee,Espresso,1,120,120,UPI
+2025-12-09,Mumbai,Cold Drinks,Cola,3,90,270,Cash
+2025-07-18,Mumbai,Coffee,Latte,2,200,400,Cash
+2025-02-08,Bengaluru,Cold Drinks,Smoothie,1,250,250,Card
+2025-05-29,Delhi,Snacks,Samosa,3,40,120,UPI
+2025-08-28,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-03-31,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-10-07,Pune,Coffee,Espresso,3,120,360,UPI
+2025-01-25,Mumbai,Snacks,Fries,2,120,240,UPI
+2025-01-18,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-01-04,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-04-08,Hyderabad,Snacks,Samosa,2,40,80,UPI
+2025-12-31,Delhi,Tea,Green Tea,1,100,100,UPI
+2025-08-07,Mumbai,Bakery,Muffin,1,120,120,Cash
+2025-10-27,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-12-01,Mumbai,Bakery,Muffin,3,120,360,UPI
+2025-04-01,Pune,Coffee,Espresso,2,120,240,UPI
+2025-03-04,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-08-08,Hyderabad,Coffee,Cold Brew,2,220,440,Card
+2025-03-07,Bengaluru,Tea,Green Tea,3,100,300,UPI
+2025-08-26,Delhi,Coffee,Cold Brew,1,220,220,UPI
+2025-10-17,Delhi,Bakery,Muffin,3,120,360,Card
+2025-12-08,Mumbai,Tea,Green Tea,3,100,300,Card
+2025-12-05,Hyderabad,Tea,Masala Chai,1,80,80,Cash
+2025-08-14,Mumbai,Tea,Green Tea,3,100,300,UPI
+2025-09-23,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-11-10,Hyderabad,Tea,Masala Chai,3,80,240,UPI
+2025-08-31,Pune,Coffee,Cappuccino,1,180,180,UPI
+2025-09-26,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-07-05,Hyderabad,Snacks,Samosa,1,40,40,UPI
+2025-03-16,Pune,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-07-21,Delhi,Coffee,Espresso,2,120,240,Card
+2025-08-05,Mumbai,Tea,Lemon Tea,2,90,180,UPI
+2025-05-19,Bengaluru,Cold Drinks,Iced Tea,1,140,140,Cash
+2025-03-05,Pune,Snacks,Samosa,3,40,120,UPI
+2025-01-14,Bengaluru,Coffee,Cappuccino,1,180,180,UPI
+2025-03-24,Pune,Snacks,Samosa,3,40,120,UPI
+2025-04-17,Pune,Cold Drinks,Smoothie,1,250,250,UPI
+2025-06-23,Bengaluru,Tea,Lemon Tea,3,90,270,UPI
+2025-02-03,Delhi,Coffee,Cold Brew,3,220,660,UPI
+2025-08-13,Hyderabad,Coffee,Cappuccino,2,180,360,Card
+2025-03-11,Pune,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-06-12,Bengaluru,Coffee,Cold Brew,1,220,220,Card
+2025-01-08,Bengaluru,Coffee,Cold Brew,3,220,660,Card
+2025-01-04,Pune,Coffee,Cold Brew,1,220,220,Card
+2025-02-21,Mumbai,Cold Drinks,Cola,1,90,90,UPI
+2025-06-04,Delhi,Bakery,Croissant,2,150,300,UPI
+2025-01-06,Delhi,Coffee,Latte,1,200,200,UPI
+2025-03-03,Delhi,Coffee,Cold Brew,1,220,220,UPI
+2025-10-06,Delhi,Coffee,Espresso,3,120,360,Cash
+2025-04-08,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-06-17,Bengaluru,Coffee,Latte,1,200,200,UPI
+2025-02-02,Hyderabad,Coffee,Cappuccino,3,180,540,Card
+2025-01-04,Mumbai,Bakery,Muffin,3,120,360,UPI
+2025-05-25,Delhi,Tea,Green Tea,1,100,100,UPI
+2025-06-27,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-03-20,Pune,Coffee,Cold Brew,1,220,220,Cash
+2025-12-27,Delhi,Tea,Masala Chai,1,80,80,Card
+2025-05-15,Mumbai,Tea,Masala Chai,2,80,160,UPI
+2025-09-12,Pune,Bakery,Cookie,3,60,180,UPI
+2025-05-24,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-08-25,Bengaluru,Coffee,Cappuccino,1,180,180,Cash
+2025-08-08,Delhi,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-05-01,Pune,Coffee,Cappuccino,1,180,180,UPI
+2025-08-29,Mumbai,Coffee,Cold Brew,2,220,440,Card
+2025-08-03,Bengaluru,Tea,Masala Chai,2,80,160,Card
+2025-12-17,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-04-27,Pune,Snacks,Samosa,1,40,40,Card
+2025-05-08,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-10-03,Bengaluru,Tea,Masala Chai,1,80,80,Cash
+2025-01-10,Hyderabad,Tea,Lemon Tea,2,90,180,UPI
+2025-01-03,Pune,Bakery,Muffin,2,120,240,UPI
+2025-11-08,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-01-21,Pune,Coffee,Espresso,2,120,240,UPI
+2025-07-04,Delhi,Bakery,Croissant,1,150,150,Cash
+2025-02-03,Bengaluru,Coffee,Latte,3,200,600,UPI
+2025-08-15,Pune,Coffee,Cappuccino,1,180,180,Card
+2025-11-24,Pune,Snacks,Fries,1,120,120,UPI
+2025-05-11,Delhi,Bakery,Cookie,1,60,60,Card
+2025-08-11,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-08-14,Pune,Tea,Lemon Tea,2,90,180,Cash
+2025-11-15,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-10-01,Bengaluru,Bakery,Muffin,2,120,240,Card
+2025-11-02,Delhi,Bakery,Cookie,2,60,120,Card
+2025-02-11,Hyderabad,Coffee,Cappuccino,2,180,360,Card
+2025-02-06,Pune,Coffee,Latte,1,200,200,Card
+2025-02-13,Delhi,Snacks,Fries,3,120,360,UPI
+2025-03-17,Pune,Tea,Lemon Tea,3,90,270,Cash
+2025-02-05,Delhi,Snacks,Fries,2,120,240,UPI
+2025-04-27,Hyderabad,Tea,Masala Chai,3,80,240,UPI
+2025-11-09,Hyderabad,Cold Drinks,Cola,2,90,180,Cash
+2025-05-03,Hyderabad,Cold Drinks,Cola,1,90,90,UPI
+2025-09-18,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-10-10,Hyderabad,Coffee,Latte,2,200,400,Cash
+2025-02-09,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-06-13,Mumbai,Tea,Masala Chai,3,80,240,Cash
+2025-07-04,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-05-21,Pune,Cold Drinks,Cola,3,90,270,UPI
+2025-02-06,Pune,Snacks,Sandwich,1,180,180,Card
+2025-03-10,Bengaluru,Bakery,Muffin,3,120,360,Card
+2025-01-16,Pune,Coffee,Cappuccino,1,180,180,Card
+2025-04-22,Bengaluru,Coffee,Cold Brew,1,220,220,Card
+2025-08-20,Delhi,Cold Drinks,Smoothie,3,250,750,Card
+2025-02-07,Hyderabad,Snacks,Samosa,1,40,40,UPI
+2025-05-16,Hyderabad,Bakery,Muffin,3,120,360,Card
+2025-05-02,Mumbai,Coffee,Latte,3,200,600,Card
+2025-08-18,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-12-19,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-10-28,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-06-08,Pune,Cold Drinks,Smoothie,2,250,500,UPI
+2025-06-10,Mumbai,Bakery,Cookie,2,60,120,Card
+2025-11-21,Hyderabad,Bakery,Cookie,3,60,180,UPI
+2025-06-29,Mumbai,Coffee,Latte,2,200,400,Card
+2025-06-30,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-12-04,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-03-23,Hyderabad,Coffee,Espresso,2,120,240,UPI
+2025-04-27,Bengaluru,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-02-17,Pune,Cold Drinks,Smoothie,1,250,250,UPI
+2025-08-23,Delhi,Coffee,Latte,2,200,400,UPI
+2025-07-10,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-10-16,Mumbai,Coffee,Espresso,3,120,360,Card
+2025-10-21,Bengaluru,Tea,Green Tea,2,100,200,Card
+2025-12-05,Mumbai,Snacks,Sandwich,1,180,180,Card
+2025-08-14,Mumbai,Bakery,Croissant,2,150,300,UPI
+2025-07-27,Delhi,Bakery,Cookie,1,60,60,UPI
+2025-11-02,Pune,Coffee,Espresso,2,120,240,UPI
+2025-05-08,Hyderabad,Snacks,Fries,2,120,240,UPI
+2025-07-25,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-08-07,Mumbai,Snacks,Fries,1,120,120,UPI
+2025-02-21,Mumbai,Coffee,Cold Brew,3,220,660,UPI
+2025-06-29,Bengaluru,Cold Drinks,Cola,1,90,90,UPI
+2025-12-14,Pune,Coffee,Latte,3,200,600,UPI
+2025-09-08,Delhi,Coffee,Cold Brew,2,220,440,Cash
+2025-06-05,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-03-30,Mumbai,Coffee,Cappuccino,2,180,360,Card
+2025-11-23,Hyderabad,Cold Drinks,Cola,2,90,180,UPI
+2025-10-19,Bengaluru,Tea,Masala Chai,3,80,240,UPI
+2025-02-15,Hyderabad,Snacks,Samosa,3,40,120,Card
+2025-03-25,Delhi,Coffee,Cold Brew,3,220,660,UPI
+2025-02-13,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-12-27,Hyderabad,Snacks,Fries,1,120,120,Cash
+2025-09-24,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-07-29,Mumbai,Tea,Lemon Tea,2,90,180,Card
+2025-03-01,Hyderabad,Coffee,Espresso,2,120,240,Card
+2025-03-04,Pune,Coffee,Cold Brew,2,220,440,UPI
+2025-07-22,Pune,Coffee,Latte,3,200,600,Card
+2025-06-02,Mumbai,Bakery,Croissant,2,150,300,Card
+2025-04-14,Delhi,Snacks,Samosa,2,40,80,Card
+2025-08-27,Delhi,Coffee,Latte,3,200,600,UPI
+2025-12-03,Pune,Snacks,Sandwich,3,180,540,Card
+2025-04-17,Hyderabad,Snacks,Sandwich,2,180,360,Card
+2025-05-31,Hyderabad,Cold Drinks,Smoothie,2,250,500,Card
+2025-04-11,Bengaluru,Coffee,Cold Brew,1,220,220,Card
+2025-07-22,Mumbai,Snacks,Samosa,1,40,40,UPI
+2025-12-05,Pune,Tea,Lemon Tea,1,90,90,Card
+2025-04-21,Mumbai,Snacks,Fries,1,120,120,Cash
+2025-09-24,Delhi,Snacks,Sandwich,1,180,180,Cash
+2025-05-03,Mumbai,Tea,Masala Chai,2,80,160,Card
+2025-06-08,Hyderabad,Bakery,Croissant,1,150,150,UPI
+2025-12-27,Hyderabad,Bakery,Muffin,2,120,240,UPI
+2025-05-30,Pune,Coffee,Latte,3,200,600,UPI
+2025-12-22,Hyderabad,Snacks,Fries,1,120,120,Card
+2025-03-30,Mumbai,Coffee,Cappuccino,2,180,360,Card
+2025-07-25,Mumbai,Snacks,Sandwich,1,180,180,UPI
+2025-02-10,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-10-03,Mumbai,Coffee,Cold Brew,3,220,660,UPI
+2025-11-03,Hyderabad,Tea,Masala Chai,2,80,160,UPI
+2025-08-09,Mumbai,Snacks,Fries,2,120,240,UPI
+2025-08-23,Mumbai,Cold Drinks,Iced Tea,3,140,420,Card
+2025-09-09,Pune,Coffee,Latte,3,200,600,UPI
+2025-11-09,Hyderabad,Coffee,Cold Brew,2,220,440,UPI
+2025-03-04,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-08-30,Bengaluru,Coffee,Cold Brew,3,220,660,Cash
+2025-11-17,Bengaluru,Coffee,Cappuccino,1,180,180,Cash
+2025-04-10,Bengaluru,Coffee,Cold Brew,3,220,660,Cash
+2025-07-09,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-07-22,Pune,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-07-23,Hyderabad,Tea,Lemon Tea,3,90,270,Cash
+2025-11-29,Pune,Cold Drinks,Cola,2,90,180,UPI
+2025-10-22,Bengaluru,Coffee,Cold Brew,2,220,440,Card
+2025-03-11,Pune,Snacks,Sandwich,1,180,180,UPI
+2025-11-14,Bengaluru,Tea,Masala Chai,3,80,240,Card
+2025-05-27,Delhi,Coffee,Latte,3,200,600,Cash
+2025-11-25,Hyderabad,Coffee,Espresso,2,120,240,Card
+2025-09-09,Pune,Coffee,Cold Brew,2,220,440,UPI
+2025-03-29,Bengaluru,Coffee,Latte,3,200,600,Card
+2025-06-23,Delhi,Tea,Masala Chai,1,80,80,Card
+2025-09-16,Delhi,Coffee,Cappuccino,2,180,360,Cash
+2025-10-27,Bengaluru,Snacks,Sandwich,1,180,180,UPI
+2025-12-21,Pune,Snacks,Samosa,1,40,40,Card
+2025-08-01,Hyderabad,Coffee,Espresso,3,120,360,Card
+2025-05-11,Mumbai,Tea,Lemon Tea,3,90,270,Card
+2025-02-28,Delhi,Bakery,Muffin,1,120,120,UPI
+2025-12-18,Bengaluru,Bakery,Croissant,2,150,300,Card
+2025-09-17,Pune,Coffee,Cold Brew,2,220,440,UPI
+2025-07-13,Delhi,Snacks,Samosa,2,40,80,UPI
+2025-08-21,Hyderabad,Coffee,Espresso,2,120,240,UPI
+2025-04-06,Delhi,Tea,Green Tea,2,100,200,Card
+2025-04-05,Delhi,Bakery,Croissant,1,150,150,Card
+2025-08-06,Hyderabad,Bakery,Muffin,2,120,240,UPI
+2025-02-26,Pune,Cold Drinks,Smoothie,3,250,750,UPI
+2025-12-16,Pune,Cold Drinks,Smoothie,2,250,500,Cash
+2025-06-30,Pune,Coffee,Latte,1,200,200,UPI
+2025-02-27,Delhi,Bakery,Cookie,2,60,120,Cash
+2025-01-19,Pune,Coffee,Cold Brew,2,220,440,Cash
+2025-03-02,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-07-01,Delhi,Snacks,Fries,1,120,120,Card
+2025-07-10,Delhi,Snacks,Samosa,3,40,120,UPI
+2025-03-18,Hyderabad,Cold Drinks,Smoothie,1,250,250,Card
+2025-03-30,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-02-13,Pune,Coffee,Cold Brew,2,220,440,UPI
+2025-04-30,Hyderabad,Snacks,Fries,2,120,240,Cash
+2025-11-20,Bengaluru,Bakery,Cookie,1,60,60,Cash
+2025-07-28,Delhi,Coffee,Cappuccino,3,180,540,UPI
+2025-09-08,Delhi,Coffee,Latte,3,200,600,UPI
+2025-11-24,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-08-14,Delhi,Bakery,Muffin,3,120,360,Cash
+2025-08-16,Bengaluru,Cold Drinks,Cola,1,90,90,UPI
+2025-04-27,Mumbai,Coffee,Cold Brew,3,220,660,Card
+2025-02-05,Mumbai,Cold Drinks,Iced Tea,3,140,420,Card
+2025-06-04,Hyderabad,Cold Drinks,Cola,1,90,90,Cash
+2025-03-05,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-10-03,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-06-15,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-03-17,Bengaluru,Cold Drinks,Cola,2,90,180,UPI
+2025-11-09,Pune,Tea,Masala Chai,1,80,80,UPI
+2025-11-17,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-02-02,Mumbai,Bakery,Croissant,1,150,150,UPI
+2025-06-02,Bengaluru,Coffee,Cappuccino,1,180,180,Card
+2025-09-07,Pune,Cold Drinks,Cola,2,90,180,Card
+2025-07-22,Hyderabad,Bakery,Croissant,3,150,450,UPI
+2025-03-25,Hyderabad,Tea,Green Tea,3,100,300,Card
+2025-12-24,Bengaluru,Cold Drinks,Smoothie,1,250,250,UPI
+2025-06-16,Delhi,Cold Drinks,Iced Tea,1,140,140,Card
+2025-03-05,Mumbai,Coffee,Cold Brew,1,220,220,Card
+2025-06-16,Bengaluru,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-09-20,Mumbai,Coffee,Espresso,3,120,360,Cash
+2025-01-18,Pune,Coffee,Latte,3,200,600,UPI
+2025-12-16,Mumbai,Bakery,Croissant,1,150,150,UPI
+2025-06-06,Pune,Coffee,Latte,3,200,600,UPI
+2025-10-16,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-10-01,Bengaluru,Tea,Lemon Tea,1,90,90,UPI
+2025-11-10,Pune,Cold Drinks,Cola,3,90,270,UPI
+2025-02-07,Hyderabad,Bakery,Croissant,2,150,300,UPI
+2025-06-15,Mumbai,Tea,Lemon Tea,1,90,90,Cash
+2025-01-08,Delhi,Bakery,Croissant,3,150,450,Card
+2025-07-30,Bengaluru,Coffee,Latte,3,200,600,UPI
+2025-04-11,Mumbai,Bakery,Cookie,3,60,180,Card
+2025-08-19,Hyderabad,Bakery,Croissant,2,150,300,UPI
+2025-06-15,Hyderabad,Coffee,Latte,3,200,600,UPI
+2025-08-04,Bengaluru,Snacks,Samosa,1,40,40,Card
+2025-07-19,Bengaluru,Snacks,Fries,1,120,120,Card
+2025-12-02,Pune,Coffee,Latte,1,200,200,UPI
+2025-04-28,Bengaluru,Cold Drinks,Iced Tea,2,140,280,Cash
+2025-02-20,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-11-08,Pune,Snacks,Sandwich,2,180,360,Card
+2025-09-11,Hyderabad,Coffee,Espresso,1,120,120,Card
+2025-03-11,Pune,Snacks,Samosa,2,40,80,UPI
+2025-07-21,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-06-02,Pune,Coffee,Latte,3,200,600,UPI
+2025-11-24,Pune,Bakery,Croissant,3,150,450,UPI
+2025-11-18,Bengaluru,Coffee,Espresso,3,120,360,Cash
+2025-04-28,Hyderabad,Bakery,Croissant,1,150,150,Cash
+2025-04-27,Hyderabad,Bakery,Muffin,3,120,360,UPI
+2025-11-24,Hyderabad,Bakery,Croissant,3,150,450,UPI
+2025-01-12,Hyderabad,Snacks,Fries,2,120,240,UPI
+2025-05-20,Pune,Coffee,Espresso,1,120,120,Cash
+2025-04-21,Delhi,Coffee,Cappuccino,3,180,540,Card
+2025-09-01,Bengaluru,Coffee,Cappuccino,3,180,540,Card
+2025-09-25,Bengaluru,Tea,Lemon Tea,3,90,270,UPI
+2025-07-21,Bengaluru,Tea,Green Tea,3,100,300,Card
+2025-02-25,Mumbai,Cold Drinks,Cola,3,90,270,UPI
+2025-01-09,Mumbai,Coffee,Cappuccino,2,180,360,UPI
+2025-01-23,Mumbai,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-02-26,Pune,Bakery,Cookie,3,60,180,Card
+2025-08-17,Hyderabad,Bakery,Croissant,3,150,450,Card
+2025-06-13,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-01-17,Pune,Snacks,Fries,2,120,240,UPI
+2025-07-24,Bengaluru,Snacks,Fries,3,120,360,Cash
+2025-01-07,Hyderabad,Tea,Green Tea,3,100,300,Cash
+2025-02-02,Pune,Coffee,Latte,2,200,400,Cash
+2025-10-23,Delhi,Cold Drinks,Cola,2,90,180,Card
+2025-03-24,Bengaluru,Coffee,Latte,1,200,200,UPI
+2025-01-09,Mumbai,Snacks,Fries,3,120,360,UPI
+2025-11-06,Pune,Tea,Green Tea,3,100,300,UPI
+2025-03-30,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-09-17,Mumbai,Coffee,Latte,2,200,400,UPI
+2025-11-15,Delhi,Bakery,Muffin,3,120,360,Cash
+2025-09-23,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-03-25,Mumbai,Coffee,Cold Brew,1,220,220,UPI
+2025-09-26,Bengaluru,Tea,Masala Chai,2,80,160,UPI
+2025-12-29,Mumbai,Snacks,Samosa,2,40,80,UPI
+2025-02-07,Delhi,Bakery,Muffin,1,120,120,UPI
+2025-10-16,Mumbai,Tea,Lemon Tea,3,90,270,UPI
+2025-04-28,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-07-11,Delhi,Cold Drinks,Iced Tea,3,140,420,Card
+2025-09-17,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-03-07,Bengaluru,Coffee,Espresso,3,120,360,Cash
+2025-01-17,Bengaluru,Cold Drinks,Smoothie,1,250,250,UPI
+2025-02-05,Pune,Snacks,Fries,2,120,240,Card
+2025-05-26,Mumbai,Cold Drinks,Cola,1,90,90,UPI
+2025-08-31,Bengaluru,Bakery,Cookie,2,60,120,Cash
+2025-08-19,Bengaluru,Cold Drinks,Smoothie,3,250,750,Card
+2025-11-04,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-02-19,Hyderabad,Coffee,Espresso,2,120,240,UPI
+2025-06-07,Hyderabad,Coffee,Cold Brew,3,220,660,Card
+2025-05-04,Bengaluru,Bakery,Cookie,2,60,120,UPI
+2025-02-06,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-09-10,Pune,Cold Drinks,Iced Tea,2,140,280,Cash
+2025-06-21,Bengaluru,Snacks,Fries,1,120,120,Cash
+2025-01-09,Hyderabad,Coffee,Latte,3,200,600,Cash
+2025-03-15,Bengaluru,Bakery,Muffin,1,120,120,Card
+2025-08-06,Bengaluru,Bakery,Muffin,1,120,120,UPI
+2025-10-19,Pune,Coffee,Espresso,3,120,360,UPI
+2025-04-21,Bengaluru,Snacks,Sandwich,1,180,180,Card
+2025-03-31,Pune,Snacks,Samosa,2,40,80,UPI
+2025-04-18,Delhi,Coffee,Espresso,1,120,120,UPI
+2025-11-03,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-12-04,Delhi,Coffee,Espresso,2,120,240,Card
+2025-06-09,Delhi,Cold Drinks,Smoothie,2,250,500,Cash
+2025-07-01,Delhi,Cold Drinks,Cola,3,90,270,Card
+2025-09-15,Mumbai,Tea,Lemon Tea,1,90,90,Card
+2025-09-23,Hyderabad,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-11-29,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-02-03,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-07-22,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-10-11,Mumbai,Bakery,Cookie,2,60,120,Card
+2025-12-03,Delhi,Coffee,Latte,1,200,200,UPI
+2025-02-03,Pune,Cold Drinks,Cola,2,90,180,Card
+2025-12-12,Hyderabad,Cold Drinks,Smoothie,1,250,250,Card
+2025-09-03,Hyderabad,Coffee,Latte,1,200,200,UPI
+2025-10-09,Delhi,Snacks,Samosa,3,40,120,UPI
+2025-07-27,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-11-29,Hyderabad,Coffee,Espresso,2,120,240,UPI
+2025-01-23,Pune,Bakery,Cookie,1,60,60,Card
+2025-09-25,Mumbai,Tea,Lemon Tea,1,90,90,UPI
+2025-10-18,Mumbai,Coffee,Cappuccino,1,180,180,Cash
+2025-01-28,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-09-08,Mumbai,Tea,Lemon Tea,2,90,180,UPI
+2025-09-25,Mumbai,Bakery,Cookie,3,60,180,UPI
+2025-06-08,Mumbai,Bakery,Cookie,2,60,120,Card
+2025-01-17,Bengaluru,Tea,Green Tea,2,100,200,UPI
+2025-08-14,Pune,Coffee,Cappuccino,3,180,540,Cash
+2025-07-02,Pune,Coffee,Latte,1,200,200,UPI
+2025-09-05,Mumbai,Snacks,Samosa,2,40,80,UPI
+2025-12-21,Bengaluru,Bakery,Croissant,2,150,300,UPI
+2025-03-09,Delhi,Coffee,Latte,1,200,200,UPI
+2025-07-23,Pune,Tea,Masala Chai,2,80,160,UPI
+2025-04-04,Mumbai,Bakery,Croissant,3,150,450,Cash
+2025-06-22,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-03-10,Pune,Coffee,Cold Brew,2,220,440,UPI
+2025-03-21,Delhi,Coffee,Espresso,1,120,120,Card
+2025-03-02,Bengaluru,Cold Drinks,Cola,1,90,90,UPI
+2025-03-21,Delhi,Snacks,Sandwich,2,180,360,UPI
+2025-03-29,Delhi,Coffee,Latte,1,200,200,Cash
+2025-08-04,Pune,Coffee,Cold Brew,3,220,660,UPI
+2025-12-26,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-08-31,Delhi,Snacks,Sandwich,2,180,360,UPI
+2025-04-26,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-10-17,Bengaluru,Snacks,Samosa,2,40,80,UPI
+2025-09-14,Hyderabad,Coffee,Espresso,2,120,240,Cash
+2025-04-27,Hyderabad,Tea,Masala Chai,3,80,240,UPI
+2025-02-13,Delhi,Cold Drinks,Smoothie,3,250,750,Card
+2025-05-23,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-09-01,Hyderabad,Tea,Green Tea,3,100,300,Card
+2025-01-27,Delhi,Cold Drinks,Smoothie,2,250,500,Card
+2025-07-05,Delhi,Coffee,Cold Brew,3,220,660,UPI
+2025-03-22,Pune,Snacks,Fries,3,120,360,UPI
+2025-04-20,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-03-09,Hyderabad,Snacks,Fries,2,120,240,Cash
+2025-08-26,Mumbai,Cold Drinks,Smoothie,3,250,750,Card
+2025-10-17,Pune,Bakery,Muffin,3,120,360,UPI
+2025-12-28,Bengaluru,Coffee,Cold Brew,3,220,660,UPI
+2025-12-19,Hyderabad,Coffee,Latte,3,200,600,Cash
+2025-10-09,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-03-10,Pune,Coffee,Cappuccino,1,180,180,Cash
+2025-09-21,Pune,Snacks,Sandwich,2,180,360,Card
+2025-08-11,Pune,Bakery,Muffin,1,120,120,UPI
+2025-02-12,Bengaluru,Coffee,Cappuccino,1,180,180,UPI
+2025-09-07,Hyderabad,Cold Drinks,Cola,2,90,180,UPI
+2025-02-08,Pune,Snacks,Samosa,3,40,120,UPI
+2025-10-08,Delhi,Bakery,Croissant,2,150,300,UPI
+2025-08-07,Pune,Tea,Masala Chai,1,80,80,UPI
+2025-07-30,Hyderabad,Coffee,Cappuccino,3,180,540,UPI
+2025-03-22,Delhi,Coffee,Cappuccino,1,180,180,Cash
+2025-07-17,Mumbai,Cold Drinks,Smoothie,3,250,750,UPI
+2025-08-14,Bengaluru,Tea,Lemon Tea,1,90,90,Cash
+2025-06-13,Bengaluru,Bakery,Muffin,1,120,120,UPI
+2025-08-10,Bengaluru,Cold Drinks,Iced Tea,2,140,280,Card
+2025-07-11,Bengaluru,Coffee,Cappuccino,3,180,540,Card
+2025-07-22,Hyderabad,Tea,Green Tea,1,100,100,Cash
+2025-10-24,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-12-15,Hyderabad,Bakery,Cookie,2,60,120,UPI
+2025-06-05,Delhi,Coffee,Cappuccino,1,180,180,UPI
+2025-11-13,Bengaluru,Coffee,Cold Brew,2,220,440,Card
+2025-10-09,Delhi,Coffee,Latte,3,200,600,Card
+2025-11-10,Hyderabad,Bakery,Croissant,1,150,150,Card
+2025-11-28,Delhi,Coffee,Cappuccino,3,180,540,Card
+2025-04-04,Delhi,Tea,Green Tea,3,100,300,Card
+2025-04-26,Delhi,Coffee,Latte,1,200,200,Cash
+2025-03-14,Delhi,Bakery,Cookie,1,60,60,Card
+2025-01-15,Hyderabad,Cold Drinks,Smoothie,3,250,750,UPI
+2025-08-12,Mumbai,Coffee,Latte,2,200,400,UPI
+2025-07-18,Pune,Tea,Green Tea,3,100,300,Card
+2025-01-08,Bengaluru,Coffee,Espresso,2,120,240,UPI
+2025-08-06,Bengaluru,Cold Drinks,Cola,3,90,270,UPI
+2025-02-01,Bengaluru,Cold Drinks,Smoothie,2,250,500,UPI
+2025-02-17,Hyderabad,Bakery,Cookie,3,60,180,UPI
+2025-09-01,Hyderabad,Tea,Green Tea,1,100,100,UPI
+2025-06-26,Bengaluru,Coffee,Espresso,1,120,120,Card
+2025-10-17,Hyderabad,Coffee,Latte,1,200,200,Card
+2025-02-26,Mumbai,Coffee,Cold Brew,3,220,660,UPI
+2025-02-22,Delhi,Bakery,Croissant,1,150,150,UPI
+2025-08-14,Hyderabad,Bakery,Cookie,3,60,180,UPI
+2025-07-04,Delhi,Coffee,Latte,1,200,200,UPI
+2025-10-26,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-07-15,Hyderabad,Cold Drinks,Cola,2,90,180,Card
+2025-11-23,Delhi,Coffee,Cold Brew,2,220,440,Card
+2025-05-02,Pune,Cold Drinks,Smoothie,1,250,250,Card
+2025-08-18,Bengaluru,Bakery,Muffin,3,120,360,Card
+2025-03-30,Bengaluru,Tea,Green Tea,1,100,100,Card
+2025-05-22,Hyderabad,Bakery,Muffin,2,120,240,Card
+2025-05-26,Mumbai,Snacks,Samosa,3,40,120,UPI
+2025-12-30,Delhi,Bakery,Croissant,1,150,150,UPI
+2025-04-27,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-05-05,Hyderabad,Coffee,Cappuccino,3,180,540,UPI
+2025-06-17,Mumbai,Tea,Green Tea,2,100,200,Cash
+2025-06-21,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-08-10,Pune,Snacks,Samosa,1,40,40,UPI
+2025-12-16,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-07-08,Delhi,Bakery,Cookie,3,60,180,Card
+2025-11-14,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-10-27,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-03-27,Bengaluru,Cold Drinks,Iced Tea,3,140,420,Card
+2025-11-11,Mumbai,Tea,Masala Chai,3,80,240,Card
+2025-07-16,Hyderabad,Bakery,Cookie,3,60,180,Card
+2025-02-10,Bengaluru,Tea,Lemon Tea,3,90,270,UPI
+2025-06-07,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-01-31,Hyderabad,Bakery,Cookie,3,60,180,Card
+2025-08-26,Mumbai,Cold Drinks,Cola,1,90,90,UPI
+2025-09-26,Delhi,Bakery,Cookie,3,60,180,Card
+2025-01-22,Hyderabad,Coffee,Latte,2,200,400,Card
+2025-02-11,Delhi,Cold Drinks,Cola,2,90,180,UPI
+2025-12-06,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-06-25,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-09-27,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-08-25,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-03-13,Pune,Coffee,Cappuccino,1,180,180,Card
+2025-01-09,Pune,Coffee,Espresso,3,120,360,Card
+2025-02-02,Pune,Snacks,Fries,2,120,240,Cash
+2025-06-30,Bengaluru,Tea,Masala Chai,2,80,160,UPI
+2025-11-17,Delhi,Cold Drinks,Smoothie,1,250,250,UPI
+2025-06-17,Delhi,Coffee,Latte,2,200,400,UPI
+2025-10-20,Delhi,Tea,Green Tea,3,100,300,Cash
+2025-09-19,Pune,Tea,Green Tea,1,100,100,UPI
+2025-08-17,Hyderabad,Cold Drinks,Smoothie,3,250,750,Card
+2025-09-07,Delhi,Snacks,Fries,2,120,240,Card
+2025-07-21,Pune,Bakery,Croissant,3,150,450,Cash
+2025-04-14,Mumbai,Cold Drinks,Iced Tea,1,140,140,UPI
+2025-06-26,Pune,Snacks,Fries,3,120,360,Card
+2025-07-26,Pune,Snacks,Samosa,2,40,80,UPI
+2025-05-05,Bengaluru,Cold Drinks,Smoothie,3,250,750,Card
+2025-05-02,Delhi,Bakery,Croissant,3,150,450,UPI
+2025-04-11,Hyderabad,Coffee,Latte,2,200,400,Card
+2025-10-06,Delhi,Coffee,Espresso,1,120,120,Card
+2025-10-09,Bengaluru,Cold Drinks,Iced Tea,1,140,140,Card
+2025-11-28,Mumbai,Snacks,Samosa,1,40,40,UPI
+2025-12-19,Hyderabad,Cold Drinks,Smoothie,2,250,500,UPI
+2025-09-25,Hyderabad,Coffee,Cold Brew,2,220,440,Card
+2025-02-10,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-04-25,Pune,Cold Drinks,Iced Tea,2,140,280,Cash
+2025-08-15,Bengaluru,Tea,Masala Chai,2,80,160,UPI
+2025-03-10,Pune,Coffee,Espresso,3,120,360,UPI
+2025-06-25,Hyderabad,Coffee,Cappuccino,2,180,360,Cash
+2025-10-12,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-08-17,Hyderabad,Coffee,Latte,3,200,600,Card
+2025-01-26,Pune,Coffee,Cold Brew,1,220,220,Card
+2025-11-07,Delhi,Coffee,Cappuccino,1,180,180,UPI
+2025-08-14,Hyderabad,Bakery,Cookie,2,60,120,Cash
+2025-02-07,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-09-23,Mumbai,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-11-21,Delhi,Snacks,Samosa,2,40,80,UPI
+2025-08-13,Delhi,Tea,Lemon Tea,1,90,90,Cash
+2025-11-11,Pune,Coffee,Espresso,2,120,240,UPI
+2025-02-22,Mumbai,Coffee,Latte,1,200,200,Card
+2025-08-18,Mumbai,Bakery,Croissant,3,150,450,Card
+2025-06-21,Mumbai,Coffee,Espresso,2,120,240,Card
+2025-11-14,Hyderabad,Coffee,Cappuccino,1,180,180,Cash
+2025-09-23,Hyderabad,Coffee,Cappuccino,3,180,540,UPI
+2025-01-25,Hyderabad,Tea,Masala Chai,3,80,240,UPI
+2025-01-11,Pune,Snacks,Sandwich,3,180,540,Card
+2025-08-25,Mumbai,Snacks,Fries,2,120,240,Card
+2025-11-10,Hyderabad,Coffee,Cold Brew,3,220,660,Card
+2025-05-28,Mumbai,Coffee,Cold Brew,1,220,220,UPI
+2025-11-28,Pune,Coffee,Cold Brew,2,220,440,Card
+2025-01-11,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-01-15,Hyderabad,Cold Drinks,Smoothie,2,250,500,UPI
+2025-12-16,Mumbai,Tea,Green Tea,3,100,300,Card
+2025-08-19,Hyderabad,Bakery,Cookie,1,60,60,Card
+2025-06-07,Bengaluru,Tea,Lemon Tea,3,90,270,UPI
+2025-07-11,Hyderabad,Bakery,Muffin,1,120,120,Cash
+2025-04-04,Mumbai,Snacks,Samosa,2,40,80,Card
+2025-02-05,Pune,Cold Drinks,Cola,2,90,180,UPI
+2025-07-06,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-03-10,Pune,Tea,Lemon Tea,1,90,90,Card
+2025-10-20,Delhi,Snacks,Samosa,2,40,80,UPI
+2025-07-11,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-07-19,Mumbai,Snacks,Sandwich,1,180,180,Card
+2025-07-05,Pune,Snacks,Sandwich,1,180,180,UPI
+2025-12-10,Mumbai,Bakery,Muffin,1,120,120,UPI
+2025-05-28,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-05-28,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-08-07,Mumbai,Bakery,Muffin,1,120,120,Card
+2025-08-19,Mumbai,Coffee,Cappuccino,1,180,180,Cash
+2025-12-05,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-02-04,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-02-25,Pune,Coffee,Espresso,2,120,240,Card
+2025-12-13,Delhi,Tea,Lemon Tea,2,90,180,UPI
+2025-01-02,Pune,Tea,Masala Chai,2,80,160,Card
+2025-01-30,Pune,Coffee,Latte,1,200,200,Cash
+2025-11-11,Delhi,Bakery,Muffin,2,120,240,Card
+2025-09-16,Pune,Bakery,Croissant,1,150,150,Card
+2025-08-14,Bengaluru,Cold Drinks,Cola,1,90,90,Card
+2025-03-18,Hyderabad,Coffee,Espresso,3,120,360,Card
+2025-10-28,Bengaluru,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-05-14,Pune,Coffee,Latte,1,200,200,Cash
+2025-08-13,Bengaluru,Cold Drinks,Cola,1,90,90,Card
+2025-12-31,Delhi,Bakery,Cookie,2,60,120,UPI
+2025-11-26,Delhi,Bakery,Croissant,1,150,150,Cash
+2025-02-24,Pune,Coffee,Latte,1,200,200,UPI
+2025-10-28,Hyderabad,Tea,Masala Chai,1,80,80,Card
+2025-05-05,Bengaluru,Bakery,Muffin,3,120,360,UPI
+2025-08-14,Delhi,Bakery,Cookie,3,60,180,UPI
+2025-04-03,Delhi,Snacks,Sandwich,1,180,180,Cash
+2025-01-14,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-08-19,Mumbai,Coffee,Cold Brew,3,220,660,Card
+2025-04-12,Mumbai,Tea,Lemon Tea,1,90,90,Card
+2025-10-11,Mumbai,Bakery,Cookie,3,60,180,UPI
+2025-01-30,Pune,Tea,Lemon Tea,2,90,180,UPI
+2025-03-06,Hyderabad,Bakery,Muffin,2,120,240,Cash
+2025-08-29,Delhi,Coffee,Cold Brew,3,220,660,Card
+2025-11-24,Hyderabad,Bakery,Muffin,1,120,120,UPI
+2025-09-16,Bengaluru,Bakery,Cookie,3,60,180,Card
+2025-05-20,Pune,Coffee,Espresso,1,120,120,UPI
+2025-12-01,Bengaluru,Coffee,Espresso,1,120,120,UPI
+2025-02-19,Hyderabad,Bakery,Muffin,3,120,360,Cash
+2025-12-01,Mumbai,Snacks,Fries,3,120,360,Card
+2025-12-19,Pune,Tea,Masala Chai,1,80,80,UPI
+2025-04-16,Mumbai,Bakery,Croissant,2,150,300,Card
+2025-01-22,Bengaluru,Coffee,Espresso,2,120,240,Card
+2025-07-30,Delhi,Coffee,Espresso,1,120,120,Card
+2025-10-21,Hyderabad,Coffee,Cold Brew,3,220,660,UPI
+2025-07-24,Mumbai,Tea,Lemon Tea,3,90,270,Card
+2025-12-14,Hyderabad,Snacks,Samosa,2,40,80,UPI
+2025-01-25,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-01-21,Hyderabad,Snacks,Sandwich,3,180,540,UPI
+2025-08-18,Delhi,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-12-09,Pune,Bakery,Croissant,1,150,150,UPI
+2025-07-14,Bengaluru,Tea,Lemon Tea,2,90,180,Card
+2025-01-22,Mumbai,Bakery,Croissant,2,150,300,UPI
+2025-11-13,Hyderabad,Tea,Green Tea,2,100,200,UPI
+2025-04-11,Pune,Coffee,Cold Brew,3,220,660,Card
+2025-06-18,Bengaluru,Bakery,Croissant,2,150,300,UPI
+2025-04-07,Delhi,Bakery,Muffin,2,120,240,Card
+2025-11-05,Mumbai,Coffee,Latte,3,200,600,Cash
+2025-09-14,Bengaluru,Snacks,Sandwich,2,180,360,Card
+2025-07-03,Mumbai,Bakery,Croissant,2,150,300,Card
+2025-01-04,Mumbai,Coffee,Cappuccino,2,180,360,UPI
+2025-01-12,Pune,Bakery,Cookie,3,60,180,UPI
+2025-08-30,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-07-18,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-10-20,Hyderabad,Coffee,Cold Brew,1,220,220,Card
+2025-12-29,Hyderabad,Bakery,Muffin,3,120,360,Cash
+2025-01-18,Mumbai,Snacks,Samosa,2,40,80,Card
+2025-12-26,Mumbai,Coffee,Latte,2,200,400,UPI
+2025-01-08,Hyderabad,Coffee,Cold Brew,3,220,660,Card
+2025-07-24,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-02-21,Hyderabad,Bakery,Croissant,2,150,300,Card
+2025-05-12,Bengaluru,Cold Drinks,Iced Tea,3,140,420,Cash
+2025-03-17,Pune,Tea,Masala Chai,3,80,240,Card
+2025-02-07,Mumbai,Tea,Masala Chai,3,80,240,Card
+2025-01-09,Pune,Coffee,Latte,3,200,600,Cash
+2025-06-08,Delhi,Snacks,Fries,1,120,120,UPI
+2025-10-04,Bengaluru,Bakery,Cookie,3,60,180,Cash
+2025-02-09,Bengaluru,Cold Drinks,Iced Tea,2,140,280,UPI
+2025-05-24,Pune,Tea,Masala Chai,1,80,80,UPI
+2025-01-24,Hyderabad,Cold Drinks,Smoothie,1,250,250,Card
+2025-10-11,Bengaluru,Snacks,Samosa,1,40,40,Cash
+2025-08-14,Delhi,Cold Drinks,Smoothie,3,250,750,UPI
+2025-04-22,Delhi,Coffee,Espresso,1,120,120,UPI
+2025-12-23,Mumbai,Bakery,Croissant,2,150,300,Card
+2025-08-31,Delhi,Snacks,Fries,3,120,360,UPI
+2025-11-22,Delhi,Snacks,Samosa,1,40,40,Card
+2025-01-26,Hyderabad,Bakery,Croissant,2,150,300,Card
+2025-02-09,Mumbai,Snacks,Samosa,2,40,80,UPI
+2025-06-14,Hyderabad,Bakery,Croissant,3,150,450,Card
+2025-11-08,Delhi,Coffee,Cold Brew,2,220,440,UPI
+2025-08-17,Hyderabad,Cold Drinks,Cola,2,90,180,UPI
+2025-09-17,Bengaluru,Cold Drinks,Cola,1,90,90,Card
+2025-10-07,Pune,Snacks,Samosa,2,40,80,Cash
+2025-12-11,Delhi,Snacks,Sandwich,3,180,540,UPI
+2025-12-20,Pune,Coffee,Latte,3,200,600,UPI
+2025-02-26,Hyderabad,Coffee,Espresso,2,120,240,UPI
+2025-03-13,Pune,Coffee,Espresso,3,120,360,Cash
+2025-11-14,Bengaluru,Bakery,Croissant,1,150,150,Card
+2025-12-21,Pune,Coffee,Espresso,3,120,360,UPI
+2025-07-18,Mumbai,Snacks,Samosa,2,40,80,UPI
+2025-10-06,Mumbai,Snacks,Fries,3,120,360,UPI
+2025-05-24,Delhi,Bakery,Muffin,3,120,360,UPI
+2025-04-21,Hyderabad,Snacks,Samosa,2,40,80,UPI
+2025-02-27,Pune,Tea,Lemon Tea,2,90,180,Cash
+2025-03-09,Delhi,Bakery,Muffin,1,120,120,Card
+2025-01-21,Mumbai,Cold Drinks,Iced Tea,2,140,280,Cash
+2025-11-01,Delhi,Cold Drinks,Cola,2,90,180,Card
+2025-02-23,Mumbai,Bakery,Croissant,2,150,300,UPI
+2025-02-26,Delhi,Snacks,Sandwich,1,180,180,UPI
+2025-03-24,Pune,Tea,Lemon Tea,1,90,90,UPI
+2025-02-25,Delhi,Snacks,Fries,2,120,240,Card
+2025-04-21,Mumbai,Snacks,Sandwich,3,180,540,UPI
+2025-04-24,Hyderabad,Snacks,Samosa,2,40,80,Cash
+2025-07-07,Mumbai,Bakery,Muffin,2,120,240,UPI
+2025-03-24,Hyderabad,Tea,Lemon Tea,2,90,180,Card
+2025-12-24,Hyderabad,Coffee,Cappuccino,1,180,180,Card
+2025-03-02,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-12-22,Bengaluru,Snacks,Fries,1,120,120,Cash
+2025-01-23,Hyderabad,Tea,Green Tea,3,100,300,Card
+2025-01-15,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-02-07,Pune,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-08-11,Hyderabad,Bakery,Cookie,2,60,120,UPI
+2025-12-01,Hyderabad,Coffee,Latte,2,200,400,UPI
+2025-02-18,Delhi,Tea,Masala Chai,2,80,160,Cash
+2025-02-12,Pune,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-08-08,Mumbai,Cold Drinks,Cola,1,90,90,Card
+2025-10-10,Hyderabad,Coffee,Espresso,1,120,120,Card
+2025-07-18,Pune,Coffee,Cold Brew,2,220,440,Card
+2025-06-22,Delhi,Tea,Masala Chai,2,80,160,Card
+2025-11-30,Pune,Tea,Green Tea,2,100,200,UPI
+2025-03-03,Bengaluru,Cold Drinks,Smoothie,1,250,250,UPI
+2025-10-06,Pune,Coffee,Espresso,3,120,360,UPI
+2025-08-24,Hyderabad,Cold Drinks,Iced Tea,3,140,420,Card
+2025-12-02,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-10-26,Hyderabad,Coffee,Cold Brew,3,220,660,UPI
+2025-11-20,Hyderabad,Tea,Green Tea,2,100,200,Card
+2025-03-28,Mumbai,Cold Drinks,Cola,3,90,270,Card
+2025-02-01,Delhi,Coffee,Latte,3,200,600,UPI
+2025-06-16,Mumbai,Tea,Green Tea,3,100,300,Cash
+2025-07-24,Delhi,Coffee,Cappuccino,3,180,540,Card
+2025-01-09,Pune,Cold Drinks,Iced Tea,3,140,420,Cash
+2025-12-01,Hyderabad,Snacks,Sandwich,2,180,360,UPI
+2025-11-26,Hyderabad,Cold Drinks,Cola,2,90,180,UPI
+2025-05-07,Mumbai,Cold Drinks,Smoothie,1,250,250,UPI
+2025-08-15,Pune,Snacks,Fries,3,120,360,Card
+2025-05-29,Hyderabad,Tea,Masala Chai,2,80,160,Card
+2025-04-13,Mumbai,Coffee,Latte,3,200,600,Card
+2025-12-24,Pune,Tea,Masala Chai,2,80,160,UPI
+2025-02-13,Bengaluru,Coffee,Latte,2,200,400,Cash
+2025-04-12,Bengaluru,Coffee,Espresso,3,120,360,UPI
+2025-07-10,Bengaluru,Snacks,Fries,1,120,120,UPI
+2025-04-24,Hyderabad,Cold Drinks,Iced Tea,3,140,420,Card
+2025-12-22,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-11-11,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-08-09,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-07-13,Pune,Tea,Green Tea,1,100,100,Cash
+2025-02-05,Hyderabad,Cold Drinks,Smoothie,1,250,250,Cash
+2025-12-02,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-06-10,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-05-05,Mumbai,Coffee,Cappuccino,1,180,180,UPI
+2025-07-28,Bengaluru,Coffee,Cappuccino,2,180,360,UPI
+2025-12-25,Pune,Snacks,Sandwich,2,180,360,UPI
+2025-02-27,Bengaluru,Tea,Green Tea,3,100,300,Cash
+2025-12-31,Hyderabad,Snacks,Sandwich,1,180,180,UPI
+2025-08-11,Delhi,Coffee,Espresso,2,120,240,Card
+2025-08-16,Pune,Coffee,Cappuccino,1,180,180,UPI
+2025-08-26,Mumbai,Coffee,Cold Brew,2,220,440,Cash
+2025-01-27,Mumbai,Tea,Masala Chai,1,80,80,UPI
+2025-09-10,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-01-07,Delhi,Coffee,Cappuccino,3,180,540,UPI
+2025-08-02,Delhi,Snacks,Sandwich,1,180,180,UPI
+2025-08-21,Delhi,Bakery,Cookie,2,60,120,UPI
+2025-02-03,Hyderabad,Bakery,Muffin,2,120,240,Card
+2025-04-10,Pune,Tea,Masala Chai,2,80,160,Card
+2025-11-17,Delhi,Coffee,Cold Brew,3,220,660,UPI
+2025-02-16,Hyderabad,Tea,Lemon Tea,3,90,270,UPI
+2025-10-27,Pune,Tea,Masala Chai,1,80,80,Card
+2025-11-05,Pune,Tea,Green Tea,3,100,300,Card
+2025-05-04,Pune,Coffee,Cappuccino,3,180,540,Card
+2025-02-08,Pune,Coffee,Espresso,2,120,240,Cash
+2025-07-10,Hyderabad,Coffee,Cold Brew,1,220,220,Cash
+2025-07-07,Hyderabad,Coffee,Cold Brew,1,220,220,Card
+2025-06-26,Bengaluru,Tea,Green Tea,3,100,300,UPI
+2025-12-30,Mumbai,Snacks,Sandwich,1,180,180,UPI
+2025-07-06,Pune,Bakery,Cookie,2,60,120,Cash
+2025-05-18,Mumbai,Coffee,Espresso,3,120,360,Card
+2025-09-13,Mumbai,Tea,Masala Chai,1,80,80,UPI
+2025-12-01,Delhi,Cold Drinks,Cola,1,90,90,UPI
+2025-04-09,Bengaluru,Coffee,Espresso,2,120,240,Card
+2025-09-08,Hyderabad,Cold Drinks,Cola,3,90,270,Card
+2025-05-20,Delhi,Bakery,Muffin,3,120,360,Cash
+2025-12-25,Bengaluru,Bakery,Croissant,1,150,150,UPI
+2025-03-05,Pune,Tea,Lemon Tea,2,90,180,UPI
+2025-07-22,Delhi,Coffee,Latte,2,200,400,Cash
+2025-03-21,Hyderabad,Bakery,Muffin,2,120,240,UPI
+2025-08-30,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-05-06,Pune,Bakery,Cookie,3,60,180,UPI
+2025-11-02,Pune,Tea,Green Tea,2,100,200,Card
+2025-07-03,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-06-24,Mumbai,Bakery,Cookie,1,60,60,UPI
+2025-03-27,Delhi,Coffee,Espresso,3,120,360,UPI
+2025-11-07,Mumbai,Bakery,Croissant,3,150,450,UPI
+2025-08-17,Mumbai,Coffee,Cappuccino,3,180,540,Cash
+2025-08-19,Bengaluru,Coffee,Cold Brew,1,220,220,UPI
+2025-09-29,Hyderabad,Bakery,Cookie,3,60,180,UPI
+2025-03-13,Delhi,Snacks,Fries,1,120,120,UPI
+2025-06-04,Bengaluru,Cold Drinks,Cola,2,90,180,Card
+2025-03-13,Hyderabad,Cold Drinks,Smoothie,2,250,500,UPI
+2025-11-10,Bengaluru,Tea,Green Tea,1,100,100,Cash
+2025-12-25,Hyderabad,Coffee,Cold Brew,2,220,440,UPI
+2025-12-26,Hyderabad,Snacks,Fries,1,120,120,Card
+2025-01-15,Delhi,Snacks,Sandwich,1,180,180,Card
+2025-03-25,Bengaluru,Tea,Masala Chai,3,80,240,Card
+2025-02-23,Bengaluru,Snacks,Samosa,2,40,80,Card
+2025-07-28,Pune,Bakery,Muffin,1,120,120,UPI
+2025-12-07,Hyderabad,Coffee,Cold Brew,1,220,220,UPI
+2025-10-25,Bengaluru,Coffee,Latte,1,200,200,UPI
+2025-03-26,Mumbai,Coffee,Espresso,3,120,360,Card
+2025-08-08,Pune,Coffee,Cappuccino,2,180,360,UPI
+2025-09-28,Delhi,Tea,Green Tea,2,100,200,Card
+2025-10-02,Pune,Bakery,Muffin,2,120,240,Card
+2025-06-13,Bengaluru,Cold Drinks,Cola,2,90,180,UPI
+2025-11-05,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-07-11,Delhi,Bakery,Muffin,1,120,120,Card
+2025-08-15,Pune,Snacks,Fries,3,120,360,UPI
+2025-05-29,Delhi,Cold Drinks,Smoothie,3,250,750,Cash
+2025-10-26,Mumbai,Coffee,Latte,2,200,400,Card
+2025-05-05,Pune,Tea,Green Tea,2,100,200,Card
+2025-04-10,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-06-12,Delhi,Coffee,Cold Brew,1,220,220,Cash
+2025-06-12,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-12-08,Mumbai,Snacks,Sandwich,3,180,540,Card
+2025-05-04,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-11-16,Pune,Coffee,Latte,1,200,200,UPI
+2025-02-26,Hyderabad,Bakery,Croissant,1,150,150,UPI
+2025-06-28,Pune,Coffee,Espresso,1,120,120,Card
+2025-11-13,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-11-02,Hyderabad,Cold Drinks,Cola,1,90,90,UPI
+2025-03-22,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-10-24,Mumbai,Coffee,Cold Brew,3,220,660,UPI
+2025-11-13,Pune,Tea,Green Tea,1,100,100,UPI
+2025-09-21,Hyderabad,Tea,Green Tea,1,100,100,UPI
+2025-06-14,Pune,Bakery,Muffin,2,120,240,Cash
+2025-02-07,Mumbai,Coffee,Latte,3,200,600,UPI
+2025-04-13,Delhi,Cold Drinks,Cola,3,90,270,Cash
+2025-12-27,Hyderabad,Tea,Green Tea,3,100,300,UPI
+2025-06-30,Mumbai,Coffee,Cold Brew,3,220,660,Cash
+2025-07-14,Hyderabad,Coffee,Espresso,2,120,240,UPI
+2025-05-28,Pune,Tea,Green Tea,1,100,100,UPI
+2025-10-02,Bengaluru,Coffee,Espresso,2,120,240,UPI
+2025-09-02,Hyderabad,Snacks,Samosa,3,40,120,Card
+2025-04-20,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-02-10,Bengaluru,Bakery,Muffin,1,120,120,Card
+2025-04-14,Hyderabad,Tea,Lemon Tea,3,90,270,UPI
+2025-11-17,Mumbai,Tea,Masala Chai,3,80,240,UPI
+2025-04-03,Hyderabad,Snacks,Fries,1,120,120,Card
+2025-11-13,Hyderabad,Coffee,Cappuccino,2,180,360,Cash
+2025-09-25,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-12-22,Pune,Coffee,Latte,3,200,600,Cash
+2025-12-31,Pune,Snacks,Sandwich,2,180,360,UPI
+2025-02-15,Hyderabad,Bakery,Croissant,1,150,150,Card
+2025-07-17,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-12-18,Pune,Cold Drinks,Iced Tea,1,140,140,Card
+2025-10-30,Pune,Bakery,Croissant,3,150,450,UPI
+2025-02-23,Hyderabad,Coffee,Espresso,3,120,360,Card
+2025-05-13,Mumbai,Snacks,Sandwich,3,180,540,UPI
+2025-08-03,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-06-07,Mumbai,Bakery,Croissant,1,150,150,UPI
+2025-06-01,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-03-21,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-06-27,Pune,Cold Drinks,Cola,1,90,90,UPI
+2025-08-16,Bengaluru,Bakery,Cookie,3,60,180,Card
+2025-06-16,Delhi,Tea,Masala Chai,2,80,160,UPI
+2025-05-21,Hyderabad,Cold Drinks,Cola,3,90,270,UPI
+2025-07-04,Mumbai,Snacks,Fries,3,120,360,Card
+2025-08-03,Hyderabad,Tea,Green Tea,3,100,300,Card
+2025-02-20,Delhi,Bakery,Croissant,1,150,150,UPI
+2025-02-23,Pune,Tea,Green Tea,2,100,200,Card
+2025-02-14,Pune,Coffee,Espresso,3,120,360,UPI
+2025-11-01,Mumbai,Coffee,Cold Brew,2,220,440,UPI
+2025-12-20,Delhi,Tea,Lemon Tea,2,90,180,Cash
+2025-03-12,Bengaluru,Tea,Lemon Tea,2,90,180,UPI
+2025-09-26,Mumbai,Cold Drinks,Smoothie,1,250,250,Card
+2025-12-16,Mumbai,Tea,Lemon Tea,2,90,180,UPI
+2025-09-26,Pune,Coffee,Espresso,1,120,120,UPI
+2025-06-14,Pune,Snacks,Samosa,2,40,80,UPI
+2025-11-11,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-10-18,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-06-11,Mumbai,Snacks,Samosa,3,40,120,UPI
+2025-09-23,Pune,Tea,Lemon Tea,3,90,270,UPI
+2025-01-25,Mumbai,Bakery,Cookie,2,60,120,UPI
+2025-08-03,Delhi,Bakery,Cookie,1,60,60,Card
+2025-12-23,Hyderabad,Cold Drinks,Cola,2,90,180,UPI
+2025-10-19,Hyderabad,Coffee,Cappuccino,1,180,180,UPI
+2025-05-20,Bengaluru,Coffee,Latte,2,200,400,Cash
+2025-03-02,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-06-25,Delhi,Tea,Green Tea,1,100,100,Card
+2025-09-17,Delhi,Tea,Masala Chai,3,80,240,Cash
+2025-10-03,Delhi,Snacks,Fries,1,120,120,UPI
+2025-09-23,Bengaluru,Coffee,Latte,3,200,600,Cash
+2025-05-08,Delhi,Coffee,Cold Brew,1,220,220,Cash
+2025-07-14,Delhi,Coffee,Cold Brew,3,220,660,UPI
+2025-12-27,Delhi,Snacks,Sandwich,3,180,540,UPI
+2025-09-05,Pune,Tea,Green Tea,1,100,100,Cash
+2025-03-31,Delhi,Bakery,Muffin,3,120,360,UPI
+2025-02-05,Pune,Tea,Lemon Tea,1,90,90,UPI
+2025-08-08,Bengaluru,Snacks,Fries,2,120,240,UPI
+2025-04-29,Hyderabad,Cold Drinks,Smoothie,3,250,750,UPI
+2025-05-19,Bengaluru,Cold Drinks,Smoothie,3,250,750,UPI
+2025-02-27,Mumbai,Tea,Lemon Tea,1,90,90,Cash
+2025-05-13,Delhi,Bakery,Cookie,2,60,120,UPI
+2025-05-03,Bengaluru,Coffee,Latte,2,200,400,Card
+2025-12-15,Pune,Snacks,Samosa,3,40,120,UPI
+2025-01-06,Mumbai,Bakery,Muffin,2,120,240,Card
+2025-06-28,Hyderabad,Coffee,Espresso,3,120,360,UPI
+2025-03-12,Mumbai,Snacks,Fries,2,120,240,Cash
+2025-12-11,Pune,Coffee,Espresso,3,120,360,UPI
+2025-10-03,Bengaluru,Coffee,Espresso,1,120,120,Card
+2025-09-27,Hyderabad,Cold Drinks,Cola,1,90,90,Card
+2025-05-31,Mumbai,Coffee,Espresso,2,120,240,UPI
+2025-02-28,Pune,Coffee,Espresso,1,120,120,Cash
+2025-10-16,Pune,Coffee,Espresso,2,120,240,UPI
+2025-01-04,Bengaluru,Coffee,Cold Brew,3,220,660,Card
+2025-08-18,Bengaluru,Coffee,Espresso,1,120,120,Card
+2025-06-02,Bengaluru,Snacks,Fries,1,120,120,UPI
+2025-07-13,Hyderabad,Snacks,Sandwich,2,180,360,Cash
+2025-05-09,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-01-08,Delhi,Cold Drinks,Smoothie,2,250,500,UPI
+2025-03-06,Delhi,Tea,Lemon Tea,1,90,90,UPI
+2025-08-21,Delhi,Bakery,Muffin,2,120,240,Card
+2025-01-17,Delhi,Coffee,Cold Brew,1,220,220,Card
+2025-10-17,Pune,Bakery,Muffin,1,120,120,Card
+2025-10-03,Delhi,Snacks,Fries,1,120,120,Card
+2025-09-08,Delhi,Cold Drinks,Smoothie,2,250,500,UPI
+2025-10-10,Hyderabad,Tea,Lemon Tea,1,90,90,UPI
+2025-02-15,Mumbai,Tea,Masala Chai,2,80,160,UPI
+2025-06-05,Bengaluru,Bakery,Muffin,2,120,240,Card
+2025-02-02,Delhi,Coffee,Latte,3,200,600,UPI
+2025-08-20,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-04-30,Pune,Coffee,Latte,1,200,200,Card
+2025-01-06,Bengaluru,Coffee,Latte,2,200,400,UPI
+2025-03-18,Hyderabad,Coffee,Cappuccino,2,180,360,UPI
+2025-11-24,Delhi,Snacks,Fries,3,120,360,Cash
+2025-11-23,Delhi,Coffee,Cappuccino,2,180,360,Card
+2025-11-13,Bengaluru,Bakery,Croissant,1,150,150,Cash
+2025-09-23,Mumbai,Coffee,Latte,1,200,200,UPI
+2025-09-18,Pune,Tea,Green Tea,3,100,300,UPI
+2025-02-13,Bengaluru,Bakery,Muffin,2,120,240,Card
+2025-08-27,Mumbai,Coffee,Cold Brew,1,220,220,UPI
+2025-10-27,Bengaluru,Coffee,Espresso,2,120,240,Cash
+2025-07-16,Hyderabad,Tea,Lemon Tea,3,90,270,UPI
+2025-09-03,Bengaluru,Bakery,Muffin,3,120,360,Card
+2025-12-26,Pune,Cold Drinks,Cola,3,90,270,UPI
+2025-09-13,Pune,Bakery,Croissant,2,150,300,Card
+2025-06-05,Mumbai,Coffee,Latte,3,200,600,Card
+2025-11-03,Pune,Coffee,Cappuccino,2,180,360,Card
+2025-04-11,Bengaluru,Bakery,Muffin,2,120,240,UPI
+2025-08-04,Bengaluru,Bakery,Croissant,3,150,450,Cash
+2025-12-09,Pune,Snacks,Samosa,3,40,120,Card
+2025-11-14,Mumbai,Tea,Lemon Tea,1,90,90,Card
+2025-05-31,Mumbai,Tea,Lemon Tea,3,90,270,UPI
+2025-09-16,Pune,Coffee,Espresso,2,120,240,UPI
+2025-06-25,Bengaluru,Tea,Green Tea,1,100,100,UPI
+2025-10-14,Pune,Coffee,Latte,3,200,600,Card
+2025-01-19,Mumbai,Coffee,Cappuccino,3,180,540,UPI
+2025-10-08,Hyderabad,Tea,Masala Chai,2,80,160,UPI
+2025-11-25,Delhi,Coffee,Cappuccino,3,180,540,Card
+2025-05-03,Bengaluru,Tea,Lemon Tea,1,90,90,Card
+2025-08-29,Bengaluru,Coffee,Latte,1,200,200,Cash
+2025-11-05,Pune,Tea,Masala Chai,3,80,240,UPI
+2025-06-01,Bengaluru,Snacks,Fries,1,120,120,Card
+2025-05-31,Pune,Coffee,Latte,3,200,600,Card
+2025-04-12,Bengaluru,Tea,Masala Chai,1,80,80,UPI
+2025-11-10,Mumbai,Coffee,Espresso,1,120,120,UPI
+2025-12-27,Mumbai,Bakery,Croissant,3,150,450,Card
+2025-06-11,Hyderabad,Snacks,Sandwich,2,180,360,UPI
+2025-12-12,Bengaluru,Bakery,Muffin,2,120,240,UPI
+2025-08-13,Delhi,Snacks,Sandwich,2,180,360,UPI
+2025-05-25,Pune,Coffee,Cold Brew,1,220,220,UPI
+2025-04-30,Pune,Coffee,Espresso,3,120,360,UPI
+2025-05-28,Delhi,Coffee,Cappuccino,2,180,360,UPI
+2025-06-02,Delhi,Cold Drinks,Cola,2,90,180,UPI
+2025-09-25,Pune,Cold Drinks,Cola,2,90,180,UPI
+2025-03-29,Bengaluru,Coffee,Espresso,2,120,240,UPI
+2025-08-06,Pune,Bakery,Cookie,1,60,60,Card
+2025-04-18,Bengaluru,Snacks,Fries,2,120,240,Card
+2025-09-05,Bengaluru,Tea,Masala Chai,3,80,240,UPI
+2025-07-09,Bengaluru,Tea,Masala Chai,3,80,240,UPI
+2025-09-14,Pune,Tea,Lemon Tea,3,90,270,UPI
+2025-09-05,Hyderabad,Tea,Green Tea,2,100,200,Cash
+2025-08-19,Bengaluru,Tea,Lemon Tea,1,90,90,Cash
+2025-08-25,Hyderabad,Coffee,Espresso,1,120,120,UPI
+2025-07-11,Bengaluru,Snacks,Fries,3,120,360,Card
+2025-06-27,Delhi,Tea,Masala Chai,2,80,160,Card
+2025-02-02,Bengaluru,Coffee,Espresso,2,120,240,UPI
+2025-06-04,Pune,Coffee,Cappuccino,3,180,540,UPI
+2025-10-26,Bengaluru,Tea,Lemon Tea,2,90,180,Cash
+2025-08-16,Delhi,Snacks,Samosa,3,40,120,Cash
+2025-05-21,Mumbai,Tea,Masala Chai,1,80,80,UPI
+2025-12-18,Mumbai,Coffee,Espresso,3,120,360,UPI
+2025-11-18,Bengaluru,Coffee,Espresso,1,120,120,Card
+2025-04-04,Delhi,Tea,Masala Chai,2,80,160,Cash
+2025-10-26,Mumbai,Tea,Masala Chai,3,80,240,Cash
+2025-02-09,Pune,Snacks,Fries,1,120,120,Cash
+2025-04-29,Pune,Coffee,Espresso,3,120,360,Cash
+2025-08-30,Hyderabad,Bakery,Cookie,3,60,180,Cash
+2025-07-13,Hyderabad,Coffee,Latte,1,200,200,UPI
+2025-08-06,Delhi,Coffee,Cappuccino,2,180,360,Cash
+2025-06-02,Pune,Coffee,Espresso,3,120,360,UPI
+2025-11-04,Pune,Coffee,Latte,1,200,200,UPI
+2025-12-26,Bengaluru,Bakery,Croissant,1,150,150,Card
+2025-03-30,Pune,Tea,Masala Chai,2,80,160,Cash
+2025-08-02,Mumbai,Snacks,Sandwich,3,180,540,UPI
+2025-05-09,Mumbai,Bakery,Cookie,1,60,60,Cash
+2025-07-26,Pune,Cold Drinks,Iced Tea,3,140,420,Card
+2025-04-14,Pune,Tea,Lemon Tea,2,90,180,Card
+2025-03-08,Delhi,Coffee,Cappuccino,1,180,180,UPI
+2025-08-18,Mumbai,Cold Drinks,Iced Tea,3,140,420,Card
+2025-09-07,Pune,Coffee,Espresso,2,120,240,Card
+2025-09-02,Bengaluru,Bakery,Cookie,2,60,120,Card
+2025-08-02,Hyderabad,Bakery,Cookie,1,60,60,UPI
+2025-01-01,Pune,Snacks,Samosa,2,40,80,Card
+2025-05-28,Bengaluru,Tea,Green Tea,2,100,200,Card
+2025-11-16,Mumbai,Coffee,Espresso,3,120,360,Card
+2025-04-20,Bengaluru,Cold Drinks,Iced Tea,3,140,420,UPI
+2025-02-07,Pune,Coffee,Latte,2,200,400,UPI
+2025-08-26,Delhi,Bakery,Croissant,2,150,300,UPI
+2025-03-11,Hyderabad,Coffee,Cappuccino,1,180,180,Card
+2025-08-17,Bengaluru,Snacks,Samosa,2,40,80,Card
+2025-12-25,Mumbai,Tea,Green Tea,1,100,100,UPI
+2025-10-22,Delhi,Cold Drinks,Cola,2,90,180,Card
+2025-09-20,Bengaluru,Coffee,Latte,1,200,200,Cash
+2025-10-21,Bengaluru,Tea,Masala Chai,3,80,240,UPI
+2025-02-26,Pune,Snacks,Samosa,1,40,40,UPI
+2025-04-20,Hyderabad,Tea,Masala Chai,2,80,160,Card
+2025-11-09,Pune,Cold Drinks,Cola,1,90,90,Card
+2025-05-03,Delhi,Snacks,Samosa,2,40,80,UPI
+2025-11-14,Pune,Coffee,Espresso,3,120,360,Card
